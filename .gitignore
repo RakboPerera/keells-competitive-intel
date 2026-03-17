@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.cookies.txt
+www.facebook.com_cookies.txt
+cookies.txt
+.env
+.streamlit/secrets.toml
