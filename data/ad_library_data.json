@@ -2,28 +2,16 @@
   "Keells Super": {
     "ads": [
       {
-        "id": "1220675956532641",
+        "id": "2423437091462527",
         "brand": "Keells Super",
         "page_name": "Keells Super",
         "start_date": "Apr 3, 2026",
         "platforms": [],
         "text_preview": "Weekend cravings? We’ve cooked up the perfect deals just for you! 🔥🍴",
         "status": "active",
-        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1220675956532641",
-        "has_real_id": true,
-        "scraped_at": "2026-04-17T03:52:33.504968"
-      },
-      {
-        "id": "2423437091462527",
-        "brand": "Keells Super",
-        "page_name": "Keells Super",
-        "start_date": "Apr 5, 2026",
-        "platforms": [],
-        "text_preview": "2 ads use this creative and text",
-        "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2423437091462527",
         "has_real_id": true,
-        "scraped_at": "2026-04-17T03:52:33.504999"
+        "scraped_at": "2026-04-18T03:37:39.731933"
       },
       {
         "id": "1391277516087641",
@@ -35,67 +23,103 @@
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1391277516087641",
         "has_real_id": true,
-        "scraped_at": "2026-04-17T03:52:33.505016"
+        "scraped_at": "2026-04-18T03:37:39.731964"
       },
       {
-        "id": "913955014945681",
+        "id": "1658959125291158",
         "brand": "Keells Super",
         "page_name": "Keells Super",
         "start_date": "Apr 1, 2026",
         "platforms": [],
         "text_preview": "3 ads use this creative and text",
         "status": "active",
-        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=913955014945681",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1658959125291158",
         "has_real_id": true,
-        "scraped_at": "2026-04-17T03:52:33.505030"
+        "scraped_at": "2026-04-18T03:37:39.731977"
+      },
+      {
+        "id": "1000187412538661",
+        "brand": "Keells Super",
+        "page_name": "Keells Super",
+        "start_date": "Apr 9, 2026",
+        "platforms": [],
+        "text_preview": "From sweet treats to hot bites and freshly baked pizza, your favourites are all right here, ready when you are. 🔥",
+        "status": "active",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1000187412538661",
+        "has_real_id": true,
+        "scraped_at": "2026-04-18T03:37:39.731993"
       },
       {
         "id": "975756331688688",
         "brand": "Keells Super",
         "page_name": "Keells Super",
-        "start_date": "Mar 25, 2026",
+        "start_date": "Apr 6, 2026",
         "platforms": [],
-        "text_preview": "Ready for a getaway? ✈️",
+        "text_preview": "Your favourites, all in one stop",
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=975756331688688",
         "has_real_id": true,
-        "scraped_at": "2026-04-17T03:52:33.505045"
+        "scraped_at": "2026-04-18T03:37:39.732009"
       },
       {
-        "id": "2144100609720045",
+        "id": "1349775827179582",
         "brand": "Keells Super",
         "page_name": "Keells Super",
         "start_date": "Apr 2, 2026",
         "platforms": [],
         "text_preview": "3 ads use this creative and text",
         "status": "active",
-        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2144100609720045",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1349775827179582",
         "has_real_id": true,
-        "scraped_at": "2026-04-17T03:52:33.505062"
+        "scraped_at": "2026-04-18T03:37:39.732021"
       },
       {
-        "id": "2078548289389680",
+        "id": "1305603998137466",
+        "brand": "Keells Super",
+        "page_name": "Keells Super",
+        "start_date": "Apr 6, 2026",
+        "platforms": [],
+        "text_preview": "From sweet treats to hot bites and freshly baked pizza, your favourites are all right here, ready when you are. 🔥",
+        "status": "active",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1305603998137466",
+        "has_real_id": true,
+        "scraped_at": "2026-04-18T03:37:39.732034"
+      },
+      {
+        "id": "913955014945681",
+        "brand": "Keells Super",
+        "page_name": "Keells Super",
+        "start_date": "Apr 6, 2026",
+        "platforms": [],
+        "text_preview": "From sweet treats to hot bites and freshly baked pizza, your favourites are all right here, ready when you are. 🔥",
+        "status": "active",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=913955014945681",
+        "has_real_id": true,
+        "scraped_at": "2026-04-18T03:37:39.732046"
+      },
+      {
+        "id": "2144100609720045",
+        "brand": "Keells Super",
+        "page_name": "Keells Super",
+        "start_date": "Mar 25, 2026",
+        "platforms": [],
+        "text_preview": "Ready for a getaway? ✈️",
+        "status": "active",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2144100609720045",
+        "has_real_id": true,
+        "scraped_at": "2026-04-18T03:37:39.732058"
+      },
+      {
+        "id": "958702353186675",
         "brand": "Keells Super",
         "page_name": "Keells Super",
         "start_date": "Apr 4, 2026",
         "platforms": [],
         "text_preview": "Fresh strawberries, now even sweeter 🍓",
         "status": "active",
-        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2078548289389680",
-        "has_real_id": true,
-        "scraped_at": "2026-04-17T03:52:33.505076"
-      },
-      {
-        "id": "958702353186675",
-        "brand": "Keells Super",
-        "page_name": "Keells Super",
-        "start_date": "Apr 9, 2026",
-        "platforms": [],
-        "text_preview": "10 ads use this creative and text",
-        "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=958702353186675",
         "has_real_id": true,
-        "scraped_at": "2026-04-17T03:52:33.505090"
+        "scraped_at": "2026-04-18T03:37:39.732069"
       },
       {
         "id": "1875569919808667",
@@ -107,7 +131,7 @@
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1875569919808667",
         "has_real_id": true,
-        "scraped_at": "2026-04-17T03:52:33.505100"
+        "scraped_at": "2026-04-18T03:37:39.732079"
       },
       {
         "id": "1617571779549549",
@@ -119,7 +143,7 @@
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1617571779549549",
         "has_real_id": true,
-        "scraped_at": "2026-04-17T03:52:33.505112"
+        "scraped_at": "2026-04-18T03:37:39.732091"
       },
       {
         "id": "2428531507594053",
@@ -131,7 +155,7 @@
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2428531507594053",
         "has_real_id": true,
-        "scraped_at": "2026-04-17T03:52:33.505122"
+        "scraped_at": "2026-04-18T03:37:39.732101"
       },
       {
         "id": "1435798958326236",
@@ -143,7 +167,7 @@
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1435798958326236",
         "has_real_id": true,
-        "scraped_at": "2026-04-17T03:52:33.505131"
+        "scraped_at": "2026-04-18T03:37:39.732111"
       },
       {
         "id": "2153469555424718",
@@ -155,31 +179,55 @@
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2153469555424718",
         "has_real_id": true,
-        "scraped_at": "2026-04-17T03:52:33.505142"
+        "scraped_at": "2026-04-18T03:37:39.732121"
       },
       {
-        "id": "1910441523167279",
+        "id": "1226285436243035",
         "brand": "Keells Super",
         "page_name": "Keells Super",
         "start_date": "Apr 9, 2026",
         "platforms": [],
         "text_preview": "Keep track of every purchase and every saving - all in one place. 📱✨",
         "status": "active",
-        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1910441523167279",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1226285436243035",
         "has_real_id": true,
-        "scraped_at": "2026-04-17T03:52:33.505154"
+        "scraped_at": "2026-04-18T03:37:39.732136"
       },
       {
-        "id": "2939358609595160",
+        "id": "1910441523167279",
+        "brand": "Keells Super",
+        "page_name": "Keells Super",
+        "start_date": "Apr 10, 2026",
+        "platforms": [],
+        "text_preview": "Keells with MasterChef Sri Lanka",
+        "status": "active",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1910441523167279",
+        "has_real_id": true,
+        "scraped_at": "2026-04-18T03:37:39.732147"
+      },
+      {
+        "id": "3882771688691093",
         "brand": "Keells Super",
         "page_name": "Keells Super",
         "start_date": "Apr 1, 2026",
         "platforms": [],
         "text_preview": "Stay fresh. Stay confident. 💥",
         "status": "active",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=3882771688691093",
+        "has_real_id": true,
+        "scraped_at": "2026-04-18T03:37:39.732158"
+      },
+      {
+        "id": "2939358609595160",
+        "brand": "Keells Super",
+        "page_name": "Keells Super",
+        "start_date": "Apr 7, 2026",
+        "platforms": [],
+        "text_preview": "Getting your favourites from Keells is easier than ever. ✨",
+        "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2939358609595160",
         "has_real_id": true,
-        "scraped_at": "2026-04-17T03:52:33.505165"
+        "scraped_at": "2026-04-18T03:37:39.732169"
       },
       {
         "id": "946573871223420",
@@ -191,31 +239,65 @@
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=946573871223420",
         "has_real_id": true,
-        "scraped_at": "2026-04-17T03:52:33.505177"
+        "scraped_at": "2026-04-18T03:37:39.732180"
       },
       {
-        "id": "3882771688691093",
+        "id": "1461255439025687",
         "brand": "Keells Super",
         "page_name": "Keells Super",
         "start_date": "Apr 1, 2026",
         "platforms": [],
         "text_preview": "3 ads use this creative and text",
         "status": "active",
-        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=3882771688691093",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1461255439025687",
         "has_real_id": true,
-        "scraped_at": "2026-04-17T03:52:33.505186"
+        "scraped_at": "2026-04-18T03:37:39.732189"
       },
       {
-        "id": "962437736358974",
+        "id": "2764418720607145",
         "brand": "Keells Super",
         "page_name": "Keells Super",
-        "start_date": "Apr 7, 2026",
+        "start_date": "Apr 9, 2026",
         "platforms": [],
-        "text_preview": "Getting your favourites from Keells is easier than ever. ✨",
+        "text_preview": "8 ads use this creative and text",
         "status": "active",
-        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=962437736358974",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2764418720607145",
         "has_real_id": true,
-        "scraped_at": "2026-04-17T03:52:33.505198"
+        "scraped_at": "2026-04-18T03:37:39.732200"
+      },
+      {
+        "id": "4528394367395611",
+        "brand": "Keells Super",
+        "page_name": "Keells Super",
+        "start_date": "Apr 9, 2026",
+        "platforms": [],
+        "text_preview": "Keells with MasterChef Sri Lanka",
+        "status": "active",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=4528394367395611",
+        "has_real_id": true,
+        "scraped_at": "2026-04-18T03:37:39.732210"
+      },
+      {
+        "id": "1195402082521083",
+        "brand": "Keells Super",
+        "page_name": "Keells Super",
+        "start_date": "Apr 2, 2026",
+        "platforms": [],
+        "text_preview": "",
+        "status": "active",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1195402082521083",
+        "scraped_at": "2026-04-18T03:37:39.918936"
+      },
+      {
+        "id": "1612976673250162",
+        "brand": "Keells Super",
+        "page_name": "Keells Super",
+        "start_date": "Apr 6, 2026",
+        "platforms": [],
+        "text_preview": "",
+        "status": "active",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1612976673250162",
+        "scraped_at": "2026-04-18T03:37:39.918938"
       },
       {
         "id": "1627753298474294",
@@ -226,134 +308,69 @@
         "text_preview": "",
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1627753298474294",
-        "scraped_at": "2026-04-17T03:52:33.692738"
+        "scraped_at": "2026-04-18T03:37:39.918944"
       },
       {
-        "id": "1007754791581285",
-        "brand": "Keells Super",
-        "page_name": "Keells Super",
-        "start_date": "Mar 25, 2026",
-        "platforms": [],
-        "text_preview": "",
-        "status": "active",
-        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1007754791581285",
-        "scraped_at": "2026-04-17T03:52:33.692740"
-      },
-      {
-        "id": "1612976673250162",
-        "brand": "Keells Super",
-        "page_name": "Keells Super",
-        "start_date": "Apr 2, 2026",
-        "platforms": [],
-        "text_preview": "",
-        "status": "active",
-        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1612976673250162",
-        "scraped_at": "2026-04-17T03:52:33.692741"
-      },
-      {
-        "id": "1135254498727395",
-        "brand": "Keells Super",
-        "page_name": "Keells Super",
-        "start_date": "Apr 4, 2026",
-        "platforms": [],
-        "text_preview": "",
-        "status": "active",
-        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1135254498727395",
-        "scraped_at": "2026-04-17T03:52:33.692743"
-      },
-      {
-        "id": "825159156686226",
-        "brand": "Keells Super",
-        "page_name": "Keells Super",
-        "start_date": "Apr 2, 2026",
-        "platforms": [],
-        "text_preview": "",
-        "status": "active",
-        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=825159156686226",
-        "scraped_at": "2026-04-17T03:52:33.692747"
-      },
-      {
-        "id": "1195402082521083",
-        "brand": "Keells Super",
-        "page_name": "Keells Super",
-        "start_date": "Apr 1, 2026",
-        "platforms": [],
-        "text_preview": "",
-        "status": "active",
-        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1195402082521083",
-        "scraped_at": "2026-04-17T03:52:33.692758"
-      },
-      {
-        "id": "1612727586608356",
-        "brand": "Keells Super",
-        "page_name": "Keells Super",
-        "start_date": "Apr 7, 2026",
-        "platforms": [],
-        "text_preview": "",
-        "status": "active",
-        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1612727586608356",
-        "scraped_at": "2026-04-17T03:52:33.692759"
-      },
-      {
-        "id": "1473604391089500",
+        "id": "1625592825343125",
         "brand": "Keells Super",
         "page_name": "Keells Super",
         "start_date": "Apr 9, 2026",
         "platforms": [],
         "text_preview": "",
         "status": "active",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1625592825343125",
+        "scraped_at": "2026-04-18T03:37:39.918952"
+      },
+      {
+        "id": "1473604391089500",
+        "brand": "Keells Super",
+        "page_name": "Keells Super",
+        "start_date": "Apr 1, 2026",
+        "platforms": [],
+        "text_preview": "",
+        "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1473604391089500",
-        "scraped_at": "2026-04-17T03:52:33.692761"
+        "scraped_at": "2026-04-18T03:37:39.918961"
+      },
+      {
+        "id": "1612727586608356",
+        "brand": "Keells Super",
+        "page_name": "Keells Super",
+        "start_date": "Apr 9, 2026",
+        "platforms": [],
+        "text_preview": "",
+        "status": "active",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1612727586608356",
+        "scraped_at": "2026-04-18T03:37:39.918964"
       },
       {
         "id": "1762793377769164",
         "brand": "Keells Super",
         "page_name": "Keells Super",
-        "start_date": null,
+        "start_date": "Apr 9, 2026",
         "platforms": [],
         "text_preview": "",
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1762793377769164",
-        "scraped_at": "2026-04-17T03:52:33.692764"
+        "scraped_at": "2026-04-18T03:37:39.918965"
       },
       {
-        "id": "2162464297844964",
+        "id": "ad_622242",
         "brand": "Keells Super",
         "page_name": "Keells Super",
-        "start_date": null,
+        "start_date": "Apr 9, 2026",
         "platforms": [],
-        "text_preview": "",
+        "text_preview": "2 ads use this creative and text",
         "status": "active",
-        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2162464297844964",
-        "scraped_at": "2026-04-17T03:52:33.692777"
-      },
-      {
-        "id": "1133009912285575",
-        "brand": "Keells Super",
-        "page_name": "Keells Super",
-        "start_date": null,
-        "platforms": [],
-        "text_preview": "",
-        "status": "active",
-        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1133009912285575",
-        "scraped_at": "2026-04-17T03:52:33.692778"
-      },
-      {
-        "id": "2145568126264032",
-        "brand": "Keells Super",
-        "page_name": "Keells Super",
-        "start_date": null,
-        "platforms": [],
-        "text_preview": "",
-        "status": "active",
-        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2145568126264032",
-        "scraped_at": "2026-04-17T03:52:33.692781"
+        "ad_snapshot_url": null,
+        "has_real_id": false,
+        "scraped_at": "2026-04-18T03:37:39.732228"
       }
     ],
-    "count": 30,
+    "count": 31,
     "page_id": "108836225822670",
     "source_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=LK&is_targeted_country=false&media_type=all&search_type=page&sort_data[direction]=desc&sort_data[mode]=total_impressions&view_all_page_id=108836225822670",
-    "collected_at": "2026-04-17T03:52:33.737976"
+    "collected_at": "2026-04-18T03:37:39.974491"
   },
   "Cargills Food City": {
     "ads": [
@@ -367,7 +384,7 @@
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1681245556389261",
         "has_real_id": true,
-        "scraped_at": "2026-04-17T03:53:18.639259"
+        "scraped_at": "2026-04-18T03:38:24.857175"
       },
       {
         "id": "773047822339274",
@@ -379,7 +396,7 @@
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=773047822339274",
         "has_real_id": true,
-        "scraped_at": "2026-04-17T03:53:18.639282"
+        "scraped_at": "2026-04-18T03:38:24.857201"
       },
       {
         "id": "26460196883592928",
@@ -391,7 +408,7 @@
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=26460196883592928",
         "has_real_id": true,
-        "scraped_at": "2026-04-17T03:53:18.639296"
+        "scraped_at": "2026-04-18T03:38:24.857217"
       },
       {
         "id": "2208151603322307",
@@ -403,7 +420,7 @@
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2208151603322307",
         "has_real_id": true,
-        "scraped_at": "2026-04-17T03:53:18.639309"
+        "scraped_at": "2026-04-18T03:38:24.857230"
       },
       {
         "id": "1336137501657723",
@@ -414,10 +431,10 @@
         "text_preview": "",
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1336137501657723",
-        "scraped_at": "2026-04-17T03:53:18.775422"
+        "scraped_at": "2026-04-18T03:38:24.993542"
       },
       {
-        "id": "ad_708520",
+        "id": "ad_876783",
         "brand": "Cargills Food City",
         "page_name": "Cargills Food City",
         "start_date": "Apr 3, 2026",
@@ -426,51 +443,63 @@
         "status": "active",
         "ad_snapshot_url": null,
         "has_real_id": false,
-        "scraped_at": "2026-04-17T03:53:18.639325"
+        "scraped_at": "2026-04-18T03:38:24.857247"
       }
     ],
     "count": 6,
     "page_id": "155866468723",
     "source_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=LK&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=155866468723",
-    "collected_at": "2026-04-17T03:53:18.811436"
+    "collected_at": "2026-04-18T03:38:25.031965"
   },
   "Softlogic Glomark": {
     "ads": [
       {
-        "id": "922174370665730",
+        "id": "708207362350177",
         "brand": "Softlogic Glomark",
         "page_name": "Softlogic Glomark",
         "start_date": "Apr 1, 2026",
         "platforms": [],
         "text_preview": "2 ads use this creative and text",
         "status": "active",
-        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=922174370665730",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=708207362350177",
         "has_real_id": true,
-        "scraped_at": "2026-04-17T03:54:03.726987"
+        "scraped_at": "2026-04-18T03:39:09.988346"
       },
       {
         "id": "1111715547814404",
         "brand": "Softlogic Glomark",
         "page_name": "Softlogic Glomark",
-        "start_date": "Apr 11, 2026",
+        "start_date": "Apr 14, 2026",
         "platforms": [],
-        "text_preview": "This ad has multiple versions",
+        "text_preview": "Better habits ඇතිවෙන,",
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1111715547814404",
         "has_real_id": true,
-        "scraped_at": "2026-04-17T03:54:03.727007"
+        "scraped_at": "2026-04-18T03:39:09.988373"
       },
       {
-        "id": "708207362350177",
+        "id": "922174370665730",
         "brand": "Softlogic Glomark",
         "page_name": "Softlogic Glomark",
         "start_date": "Apr 9, 2026",
         "platforms": [],
         "text_preview": "\"ජසේ......you are so sweet අනේ....\" 😍",
         "status": "active",
-        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=708207362350177",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=922174370665730",
         "has_real_id": true,
-        "scraped_at": "2026-04-17T03:54:03.727026"
+        "scraped_at": "2026-04-18T03:39:09.988396"
+      },
+      {
+        "id": "1962799158446723",
+        "brand": "Softlogic Glomark",
+        "page_name": "Softlogic Glomark",
+        "start_date": "Apr 11, 2026",
+        "platforms": [],
+        "text_preview": "This ad has multiple versions",
+        "status": "active",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1962799158446723",
+        "has_real_id": true,
+        "scraped_at": "2026-04-18T03:39:09.988413"
       },
       {
         "id": "1624380855258453",
@@ -478,69 +507,57 @@
         "page_name": "Softlogic Glomark",
         "start_date": "Apr 14, 2026",
         "platforms": [],
-        "text_preview": "Better habits ඇතිවෙන,",
+        "text_preview": "Take Home Better Discounts with Softlogic GLOMARK from 13th to 19th April 2026!",
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1624380855258453",
         "has_real_id": true,
-        "scraped_at": "2026-04-17T03:54:03.727040"
+        "scraped_at": "2026-04-18T03:39:09.988433"
       },
       {
-        "id": "1962799158446723",
+        "id": "944552191510106",
         "brand": "Softlogic Glomark",
         "page_name": "Softlogic Glomark",
         "start_date": "Apr 1, 2026",
         "platforms": [],
         "text_preview": "ගෙට BETTER AVURUDU 2026!",
         "status": "active",
-        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1962799158446723",
-        "has_real_id": true,
-        "scraped_at": "2026-04-17T03:54:03.727053"
-      },
-      {
-        "id": "944552191510106",
-        "brand": "Softlogic Glomark",
-        "page_name": "Softlogic Glomark",
-        "start_date": "Apr 14, 2026",
-        "platforms": [],
-        "text_preview": "Take Home Better Discounts with Softlogic GLOMARK from 13th to 19th April 2026!",
-        "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=944552191510106",
         "has_real_id": true,
-        "scraped_at": "2026-04-17T03:54:03.727067"
+        "scraped_at": "2026-04-18T03:39:09.988449"
       },
       {
         "id": "1662455381630397",
         "brand": "Softlogic Glomark",
         "page_name": "Softlogic Glomark",
-        "start_date": "Apr 14, 2026",
+        "start_date": "Apr 9, 2026",
         "platforms": [],
         "text_preview": "",
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1662455381630397",
-        "scraped_at": "2026-04-17T03:54:03.867139"
+        "scraped_at": "2026-04-18T03:39:10.141019"
       },
       {
         "id": "1303177215045149",
         "brand": "Softlogic Glomark",
         "page_name": "Softlogic Glomark",
-        "start_date": "Apr 14, 2026",
+        "start_date": "Apr 11, 2026",
         "platforms": [],
         "text_preview": "",
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1303177215045149",
-        "scraped_at": "2026-04-17T03:54:03.867142"
+        "scraped_at": "2026-04-18T03:39:10.141021"
       }
     ],
     "count": 8,
     "page_id": "354233975342508",
     "source_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=LK&is_targeted_country=false&media_type=all&search_type=page&sort_data[direction]=desc&sort_data[mode]=total_impressions&view_all_page_id=354233975342508",
-    "collected_at": "2026-04-17T03:54:03.904052"
+    "collected_at": "2026-04-18T03:39:10.184023"
   },
   "SPAR Sri Lanka": {
     "ads": [],
     "count": 0,
     "page_id": "290159608091322",
     "source_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=LK&is_targeted_country=false&media_type=all&search_type=page&sort_data[direction]=desc&sort_data[mode]=total_impressions&view_all_page_id=290159608091322",
-    "collected_at": "2026-04-17T03:54:48.931973"
+    "collected_at": "2026-04-18T03:39:55.191090"
   }
 }
