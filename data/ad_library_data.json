@@ -11,7 +11,7 @@
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=923956240075504",
         "has_real_id": true,
-        "scraped_at": "2026-08-12T03:05:23.667181"
+        "scraped_at": "2026-08-13T03:08:28.974674"
       },
       {
         "id": "4608536166099971",
@@ -23,7 +23,7 @@
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=4608536166099971",
         "has_real_id": true,
-        "scraped_at": "2026-08-12T03:05:23.667219"
+        "scraped_at": "2026-08-13T03:08:28.974712"
       },
       {
         "id": "1035906595901174",
@@ -35,7 +35,7 @@
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1035906595901174",
         "has_real_id": true,
-        "scraped_at": "2026-08-12T03:05:23.667237"
+        "scraped_at": "2026-08-13T03:08:28.974731"
       },
       {
         "id": "1308661268992072",
@@ -47,7 +47,7 @@
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1308661268992072",
         "has_real_id": true,
-        "scraped_at": "2026-08-12T03:05:23.667249"
+        "scraped_at": "2026-08-13T03:08:28.974743"
       },
       {
         "id": "2304418663659325",
@@ -59,7 +59,7 @@
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2304418663659325",
         "has_real_id": true,
-        "scraped_at": "2026-08-12T03:05:23.667260"
+        "scraped_at": "2026-08-13T03:08:28.974754"
       },
       {
         "id": "1834793774569026",
@@ -71,7 +71,7 @@
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1834793774569026",
         "has_real_id": true,
-        "scraped_at": "2026-08-12T03:05:23.667272"
+        "scraped_at": "2026-08-13T03:08:28.974766"
       },
       {
         "id": "1685600136075449",
@@ -83,7 +83,7 @@
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1685600136075449",
         "has_real_id": true,
-        "scraped_at": "2026-08-12T03:05:23.667289"
+        "scraped_at": "2026-08-13T03:08:28.974782"
       },
       {
         "id": "1348655500688523",
@@ -95,7 +95,7 @@
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1348655500688523",
         "has_real_id": true,
-        "scraped_at": "2026-08-12T03:05:23.667306"
+        "scraped_at": "2026-08-13T03:08:28.974798"
       },
       {
         "id": "1187586793578025",
@@ -107,7 +107,7 @@
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1187586793578025",
         "has_real_id": true,
-        "scraped_at": "2026-08-12T03:05:23.667317"
+        "scraped_at": "2026-08-13T03:08:28.974810"
       },
       {
         "id": "3382092481972380",
@@ -119,7 +119,7 @@
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=3382092481972380",
         "has_real_id": true,
-        "scraped_at": "2026-08-12T03:05:23.667330"
+        "scraped_at": "2026-08-13T03:08:28.974822"
       },
       {
         "id": "1043102841535269",
@@ -131,7 +131,7 @@
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1043102841535269",
         "has_real_id": true,
-        "scraped_at": "2026-08-12T03:05:23.667342"
+        "scraped_at": "2026-08-13T03:08:28.974834"
       },
       {
         "id": "1563604571876351",
@@ -139,11 +139,11 @@
         "page_name": "Keells Super",
         "start_date": "Jul 23, 2026",
         "platforms": [],
-        "text_preview": "15 ads use this creative and text",
+        "text_preview": "17 ads use this creative and text",
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1563604571876351",
         "has_real_id": true,
-        "scraped_at": "2026-08-12T03:05:23.667357"
+        "scraped_at": "2026-08-13T03:08:28.974848"
       },
       {
         "id": "1093837496406188",
@@ -155,7 +155,7 @@
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1093837496406188",
         "has_real_id": true,
-        "scraped_at": "2026-08-12T03:05:23.667368"
+        "scraped_at": "2026-08-13T03:08:28.974858"
       },
       {
         "id": "1603480884633166",
@@ -167,7 +167,7 @@
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1603480884633166",
         "has_real_id": true,
-        "scraped_at": "2026-08-12T03:05:23.667379"
+        "scraped_at": "2026-08-13T03:08:28.974869"
       },
       {
         "id": "1700053951222960",
@@ -179,161 +179,95 @@
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1700053951222960",
         "has_real_id": true,
-        "scraped_at": "2026-08-12T03:05:23.667390"
+        "scraped_at": "2026-08-13T03:08:28.974880"
       },
       {
-        "id": "1802768384258763",
+        "id": "1508062383965596",
         "brand": "Keells Super",
         "page_name": "Keells Super",
-        "start_date": "Jul 23, 2026",
+        "start_date": "Jul 24, 2026",
         "platforms": [],
         "text_preview": "",
         "status": "active",
-        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1802768384258763",
-        "scraped_at": "2026-08-12T03:05:23.953974"
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1508062383965596",
+        "scraped_at": "2026-08-13T03:08:29.258392"
       },
       {
-        "id": "2180601329155050",
-        "brand": "Keells Super",
-        "page_name": "Keells Super",
-        "start_date": "Aug 4, 2026",
-        "platforms": [],
-        "text_preview": "",
-        "status": "active",
-        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2180601329155050",
-        "scraped_at": "2026-08-12T03:05:23.953996"
-      },
-      {
-        "id": "1542248784202631",
+        "id": "2467753847026105",
         "brand": "Keells Super",
         "page_name": "Keells Super",
         "start_date": "Aug 8, 2026",
         "platforms": [],
         "text_preview": "",
         "status": "active",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2467753847026105",
+        "scraped_at": "2026-08-13T03:08:29.258397"
+      },
+      {
+        "id": "1733664374438458",
+        "brand": "Keells Super",
+        "page_name": "Keells Super",
+        "start_date": "Aug 3, 2026",
+        "platforms": [],
+        "text_preview": "",
+        "status": "active",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1733664374438458",
+        "scraped_at": "2026-08-13T03:08:29.258401"
+      },
+      {
+        "id": "1542248784202631",
+        "brand": "Keells Super",
+        "page_name": "Keells Super",
+        "start_date": "Aug 3, 2026",
+        "platforms": [],
+        "text_preview": "",
+        "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1542248784202631",
-        "scraped_at": "2026-08-12T03:05:23.954001"
+        "scraped_at": "2026-08-13T03:08:29.258403"
       },
       {
-        "id": "28763385729917385",
-        "brand": "Keells Super",
-        "page_name": "Keells Super",
-        "start_date": "Aug 3, 2026",
-        "platforms": [],
-        "text_preview": "",
-        "status": "active",
-        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=28763385729917385",
-        "scraped_at": "2026-08-12T03:05:23.954005"
-      },
-      {
-        "id": "1545835447007275",
-        "brand": "Keells Super",
-        "page_name": "Keells Super",
-        "start_date": "Aug 3, 2026",
-        "platforms": [],
-        "text_preview": "",
-        "status": "active",
-        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1545835447007275",
-        "scraped_at": "2026-08-12T03:05:23.954007"
-      },
-      {
-        "id": "4090108027948737",
+        "id": "2153432679709043",
         "brand": "Keells Super",
         "page_name": "Keells Super",
         "start_date": "Jul 23, 2026",
         "platforms": [],
         "text_preview": "",
         "status": "active",
-        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=4090108027948737",
-        "scraped_at": "2026-08-12T03:05:23.954008"
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2153432679709043",
+        "scraped_at": "2026-08-13T03:08:29.258404"
       },
       {
         "id": "1064733226010949",
         "brand": "Keells Super",
         "page_name": "Keells Super",
-        "start_date": "Aug 4, 2026",
+        "start_date": null,
         "platforms": [],
         "text_preview": "",
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1064733226010949",
-        "scraped_at": "2026-08-12T03:05:23.954010"
+        "scraped_at": "2026-08-13T03:08:29.258419"
       },
       {
-        "id": "1508062383965596",
+        "id": "4090108027948737",
         "brand": "Keells Super",
         "page_name": "Keells Super",
         "start_date": null,
         "platforms": [],
         "text_preview": "",
         "status": "active",
-        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1508062383965596",
-        "scraped_at": "2026-08-12T03:05:23.954020"
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=4090108027948737",
+        "scraped_at": "2026-08-13T03:08:29.258421"
       },
       {
-        "id": "2467753847026105",
+        "id": "2180601329155050",
         "brand": "Keells Super",
         "page_name": "Keells Super",
         "start_date": null,
         "platforms": [],
         "text_preview": "",
         "status": "active",
-        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2467753847026105",
-        "scraped_at": "2026-08-12T03:05:23.954022"
-      },
-      {
-        "id": "1002770699332033",
-        "brand": "Keells Super",
-        "page_name": "Keells Super",
-        "start_date": null,
-        "platforms": [],
-        "text_preview": "",
-        "status": "active",
-        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1002770699332033",
-        "scraped_at": "2026-08-12T03:05:23.954023"
-      },
-      {
-        "id": "2153432679709043",
-        "brand": "Keells Super",
-        "page_name": "Keells Super",
-        "start_date": null,
-        "platforms": [],
-        "text_preview": "",
-        "status": "active",
-        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2153432679709043",
-        "scraped_at": "2026-08-12T03:05:23.954030"
-      },
-      {
-        "id": "28680763374856959",
-        "brand": "Keells Super",
-        "page_name": "Keells Super",
-        "start_date": null,
-        "platforms": [],
-        "text_preview": "",
-        "status": "active",
-        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=28680763374856959",
-        "scraped_at": "2026-08-12T03:05:23.954032"
-      },
-      {
-        "id": "1569890291446139",
-        "brand": "Keells Super",
-        "page_name": "Keells Super",
-        "start_date": null,
-        "platforms": [],
-        "text_preview": "",
-        "status": "active",
-        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1569890291446139",
-        "scraped_at": "2026-08-12T03:05:23.954034"
-      },
-      {
-        "id": "1733664374438458",
-        "brand": "Keells Super",
-        "page_name": "Keells Super",
-        "start_date": null,
-        "platforms": [],
-        "text_preview": "",
-        "status": "active",
-        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1733664374438458",
-        "scraped_at": "2026-08-12T03:05:23.954035"
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2180601329155050",
+        "scraped_at": "2026-08-13T03:08:29.258422"
       },
       {
         "id": "1514281023809570",
@@ -344,10 +278,76 @@
         "text_preview": "",
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1514281023809570",
-        "scraped_at": "2026-08-12T03:05:23.954038"
+        "scraped_at": "2026-08-13T03:08:29.258424"
       },
       {
-        "id": "ad_899188",
+        "id": "28763385729917385",
+        "brand": "Keells Super",
+        "page_name": "Keells Super",
+        "start_date": null,
+        "platforms": [],
+        "text_preview": "",
+        "status": "active",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=28763385729917385",
+        "scraped_at": "2026-08-13T03:08:29.258427"
+      },
+      {
+        "id": "28680763374856959",
+        "brand": "Keells Super",
+        "page_name": "Keells Super",
+        "start_date": null,
+        "platforms": [],
+        "text_preview": "",
+        "status": "active",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=28680763374856959",
+        "scraped_at": "2026-08-13T03:08:29.258428"
+      },
+      {
+        "id": "1569890291446139",
+        "brand": "Keells Super",
+        "page_name": "Keells Super",
+        "start_date": null,
+        "platforms": [],
+        "text_preview": "",
+        "status": "active",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1569890291446139",
+        "scraped_at": "2026-08-13T03:08:29.258430"
+      },
+      {
+        "id": "1002770699332033",
+        "brand": "Keells Super",
+        "page_name": "Keells Super",
+        "start_date": null,
+        "platforms": [],
+        "text_preview": "",
+        "status": "active",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1002770699332033",
+        "scraped_at": "2026-08-13T03:08:29.258432"
+      },
+      {
+        "id": "1802768384258763",
+        "brand": "Keells Super",
+        "page_name": "Keells Super",
+        "start_date": null,
+        "platforms": [],
+        "text_preview": "",
+        "status": "active",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1802768384258763",
+        "scraped_at": "2026-08-13T03:08:29.258435"
+      },
+      {
+        "id": "1545835447007275",
+        "brand": "Keells Super",
+        "page_name": "Keells Super",
+        "start_date": null,
+        "platforms": [],
+        "text_preview": "",
+        "status": "active",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1545835447007275",
+        "scraped_at": "2026-08-13T03:08:29.258436"
+      },
+      {
+        "id": "ad_17295",
         "brand": "Keells Super",
         "page_name": "Keells Super",
         "start_date": "Aug 4, 2026",
@@ -356,13 +356,13 @@
         "status": "active",
         "ad_snapshot_url": null,
         "has_real_id": false,
-        "scraped_at": "2026-08-12T03:05:23.667407"
+        "scraped_at": "2026-08-13T03:08:28.974896"
       }
     ],
     "count": 31,
     "page_id": "108836225822670",
     "source_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=LK&is_targeted_country=false&media_type=all&search_type=page&sort_data[direction]=desc&sort_data[mode]=total_impressions&view_all_page_id=108836225822670",
-    "collected_at": "2026-08-12T03:05:24.005321"
+    "collected_at": "2026-08-13T03:08:29.303209"
   },
   "Cargills Food City": {
     "ads": [
@@ -376,7 +376,7 @@
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2144980303030698",
         "has_real_id": true,
-        "scraped_at": "2026-08-12T03:06:09.200567"
+        "scraped_at": "2026-08-13T03:09:14.184939"
       },
       {
         "id": "1401822545124771",
@@ -388,7 +388,7 @@
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1401822545124771",
         "has_real_id": true,
-        "scraped_at": "2026-08-12T03:06:09.200592"
+        "scraped_at": "2026-08-13T03:09:14.184961"
       },
       {
         "id": "4512954565697233",
@@ -400,7 +400,7 @@
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=4512954565697233",
         "has_real_id": true,
-        "scraped_at": "2026-08-12T03:06:09.200610"
+        "scraped_at": "2026-08-13T03:09:14.184978"
       },
       {
         "id": "1048944014694295",
@@ -412,7 +412,7 @@
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1048944014694295",
         "has_real_id": true,
-        "scraped_at": "2026-08-12T03:06:09.200623"
+        "scraped_at": "2026-08-13T03:09:14.184991"
       },
       {
         "id": "1056616313583646",
@@ -424,7 +424,7 @@
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1056616313583646",
         "has_real_id": true,
-        "scraped_at": "2026-08-12T03:06:09.200635"
+        "scraped_at": "2026-08-13T03:09:14.185002"
       },
       {
         "id": "1673349634791261",
@@ -436,7 +436,7 @@
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1673349634791261",
         "has_real_id": true,
-        "scraped_at": "2026-08-12T03:06:09.200646"
+        "scraped_at": "2026-08-13T03:09:14.185013"
       },
       {
         "id": "1451664150080731",
@@ -448,7 +448,7 @@
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1451664150080731",
         "has_real_id": true,
-        "scraped_at": "2026-08-12T03:06:09.200661"
+        "scraped_at": "2026-08-13T03:09:14.185023"
       },
       {
         "id": "2400567780700734",
@@ -460,7 +460,7 @@
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2400567780700734",
         "has_real_id": true,
-        "scraped_at": "2026-08-12T03:06:09.200673"
+        "scraped_at": "2026-08-13T03:09:14.185034"
       },
       {
         "id": "2563296644104471",
@@ -472,36 +472,48 @@
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2563296644104471",
         "has_real_id": true,
-        "scraped_at": "2026-08-12T03:06:09.200683"
+        "scraped_at": "2026-08-13T03:09:14.185045"
       },
       {
-        "id": "1417283846970051",
+        "id": "1368590918801583",
         "brand": "Cargills Food City",
         "page_name": "Cargills Food City",
         "start_date": "Aug 8, 2026",
         "platforms": [],
         "text_preview": "c: rewards அங்கத்தவர்களுக்கான விசேட விலைக்கழிவுகளை அனுபவித்திடுங்கள்!",
         "status": "active",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1368590918801583",
+        "has_real_id": true,
+        "scraped_at": "2026-08-13T03:09:14.185054"
+      },
+      {
+        "id": "1417283846970051",
+        "brand": "Cargills Food City",
+        "page_name": "Cargills Food City",
+        "start_date": "Aug 12, 2026 · Total active time 15 hrs",
+        "platforms": [],
+        "text_preview": "ස්ථීර අනාගතයකට ස්ථාවර රැකියාවක් සොයන ඔබට කදිම අවස්ථාවක්!",
+        "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1417283846970051",
         "has_real_id": true,
-        "scraped_at": "2026-08-12T03:06:09.200693"
+        "scraped_at": "2026-08-13T03:09:14.185067"
       },
       {
         "id": "2076083096601028",
         "brand": "Cargills Food City",
         "page_name": "Cargills Food City",
-        "start_date": "Aug 8, 2026",
+        "start_date": "Aug 12, 2026",
         "platforms": [],
         "text_preview": "",
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2076083096601028",
-        "scraped_at": "2026-08-12T03:06:09.404947"
+        "scraped_at": "2026-08-13T03:09:14.440423"
       }
     ],
-    "count": 11,
+    "count": 12,
     "page_id": "155866468723",
     "source_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=LK&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=155866468723",
-    "collected_at": "2026-08-12T03:06:09.453763"
+    "collected_at": "2026-08-13T03:09:14.484073"
   },
   "Softlogic Glomark": {
     "ads": [
@@ -515,7 +527,7 @@
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1037179575619901",
         "has_real_id": true,
-        "scraped_at": "2026-08-12T03:06:54.645137"
+        "scraped_at": "2026-08-13T03:09:59.387159"
       },
       {
         "id": "27393229070377598",
@@ -527,7 +539,7 @@
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=27393229070377598",
         "has_real_id": true,
-        "scraped_at": "2026-08-12T03:06:54.645161"
+        "scraped_at": "2026-08-13T03:09:59.387184"
       },
       {
         "id": "1391452329545957",
@@ -539,31 +551,19 @@
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1391452329545957",
         "has_real_id": true,
-        "scraped_at": "2026-08-12T03:06:54.645176"
+        "scraped_at": "2026-08-13T03:09:59.387198"
       },
       {
-        "id": "5492334684323988",
+        "id": "2549518078892472",
         "brand": "Softlogic Glomark",
         "page_name": "Softlogic Glomark",
         "start_date": "Aug 1, 2026",
         "platforms": [],
         "text_preview": "Enjoy 20% DISCOUNT on your Total Bill with GLO Super Saturday and save up to Rs. 4,000 every Saturday for in-store purchases at GLOMARK, exclusively for Softlogic ONE Loyalty Member - excluding essential stores.",
         "status": "active",
-        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=5492334684323988",
-        "has_real_id": true,
-        "scraped_at": "2026-08-12T03:06:54.645192"
-      },
-      {
-        "id": "2549518078892472",
-        "brand": "Softlogic Glomark",
-        "page_name": "Softlogic Glomark",
-        "start_date": "Aug 6, 2026",
-        "platforms": [],
-        "text_preview": "ගෙට Better Life with 25% DISCOUNT from People’s Bank Credit Cards and 10% DISCOUNT from People's Bank Debit Cards on your Supermarket Bill, every Friday until 31st August 2026. Shop at any GLOMARK outlet or online via www.glomark.lk.",
-        "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2549518078892472",
         "has_real_id": true,
-        "scraped_at": "2026-08-12T03:06:54.645209"
+        "scraped_at": "2026-08-13T03:09:59.387213"
       },
       {
         "id": "1047064631013413",
@@ -575,7 +575,7 @@
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1047064631013413",
         "has_real_id": true,
-        "scraped_at": "2026-08-12T03:06:54.645223"
+        "scraped_at": "2026-08-13T03:09:59.387227"
       },
       {
         "id": "2040000406646847",
@@ -587,7 +587,7 @@
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2040000406646847",
         "has_real_id": true,
-        "scraped_at": "2026-08-12T03:06:54.645238"
+        "scraped_at": "2026-08-13T03:09:59.387242"
       },
       {
         "id": "1589247842798371",
@@ -599,7 +599,7 @@
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1589247842798371",
         "has_real_id": true,
-        "scraped_at": "2026-08-12T03:06:54.645251"
+        "scraped_at": "2026-08-13T03:09:59.387256"
       },
       {
         "id": "1027812526752180",
@@ -611,7 +611,7 @@
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1027812526752180",
         "has_real_id": true,
-        "scraped_at": "2026-08-12T03:06:54.645266"
+        "scraped_at": "2026-08-13T03:09:59.387270"
       },
       {
         "id": "1744454063257280",
@@ -623,7 +623,7 @@
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1744454063257280",
         "has_real_id": true,
-        "scraped_at": "2026-08-12T03:06:54.645281"
+        "scraped_at": "2026-08-13T03:09:59.387285"
       },
       {
         "id": "1581198326722843",
@@ -635,7 +635,7 @@
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1581198326722843",
         "has_real_id": true,
-        "scraped_at": "2026-08-12T03:06:54.645293"
+        "scraped_at": "2026-08-13T03:09:59.387297"
       },
       {
         "id": "1567319508371736",
@@ -647,19 +647,31 @@
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1567319508371736",
         "has_real_id": true,
-        "scraped_at": "2026-08-12T03:06:54.645306"
+        "scraped_at": "2026-08-13T03:09:59.387310"
       },
       {
-        "id": "1703186764291584",
+        "id": "4471889766433303",
         "brand": "Softlogic Glomark",
         "page_name": "Softlogic Glomark",
         "start_date": "Aug 8, 2026",
         "platforms": [],
         "text_preview": "Take home a better life with 25% DISCOUNT on SUPERMARKET BILL with Union Bank Credit Cards, on 02nd & 30th August 2026. Shop at any GLOMARK outlet or online via www.glomark.lk.",
         "status": "active",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=4471889766433303",
+        "has_real_id": true,
+        "scraped_at": "2026-08-13T03:09:59.387323"
+      },
+      {
+        "id": "1703186764291584",
+        "brand": "Softlogic Glomark",
+        "page_name": "Softlogic Glomark",
+        "start_date": "Aug 12, 2026 · Total active time 18 hrs",
+        "platforms": [],
+        "text_preview": "2 ads use this creative and text",
+        "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1703186764291584",
         "has_real_id": true,
-        "scraped_at": "2026-08-12T03:06:54.645319"
+        "scraped_at": "2026-08-13T03:09:59.387336"
       },
       {
         "id": "1104845718873997",
@@ -671,94 +683,95 @@
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1104845718873997",
         "has_real_id": true,
-        "scraped_at": "2026-08-12T03:06:54.645332"
+        "scraped_at": "2026-08-13T03:09:59.387350"
       },
       {
-        "id": "1404533018244178",
+        "id": "2425154861325744",
         "brand": "Softlogic Glomark",
         "page_name": "Softlogic Glomark",
         "start_date": "Aug 10, 2026",
         "platforms": [],
         "text_preview": "𝐘𝐨𝐮𝐫 𝐆𝐋𝐎𝐌𝐀𝐑𝐊 𝐑𝐮𝐧, 𝐒𝐢𝐦𝐩𝐥𝐢𝐟𝐢𝐞𝐝.",
         "status": "active",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2425154861325744",
+        "has_real_id": true,
+        "scraped_at": "2026-08-13T03:09:59.387361"
+      },
+      {
+        "id": "1404533018244178",
+        "brand": "Softlogic Glomark",
+        "page_name": "Softlogic Glomark",
+        "start_date": "Aug 12, 2026 · Total active time 18 hrs",
+        "platforms": [],
+        "text_preview": "Wherever your vibe takes you, wherever your journey leads, GLOMARK makes it better. Here’s to the energy, dreams, and endless possibilities of youth.",
+        "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1404533018244178",
         "has_real_id": true,
-        "scraped_at": "2026-08-12T03:06:54.645343"
+        "scraped_at": "2026-08-13T03:09:59.387375"
+      },
+      {
+        "id": "1066389445943418",
+        "brand": "Softlogic Glomark",
+        "page_name": "Softlogic Glomark",
+        "start_date": "Aug 10, 2026",
+        "platforms": [],
+        "text_preview": "",
+        "status": "active",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1066389445943418",
+        "scraped_at": "2026-08-13T03:09:59.617819"
       },
       {
         "id": "2598527143911138",
         "brand": "Softlogic Glomark",
         "page_name": "Softlogic Glomark",
-        "start_date": "Aug 8, 2026",
+        "start_date": "Aug 12, 2026",
         "platforms": [],
         "text_preview": "",
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2598527143911138",
-        "scraped_at": "2026-08-12T03:06:54.865098"
+        "scraped_at": "2026-08-13T03:09:59.617829"
       },
       {
-        "id": "ad_861259",
+        "id": "ad_188964",
         "brand": "Softlogic Glomark",
         "page_name": "Softlogic Glomark",
-        "start_date": "Aug 11, 2026 · Total active time 19 hrs",
+        "start_date": "Aug 11, 2026",
         "platforms": [],
         "text_preview": "Take Home Better Discounts with Softlogic GLOMARK on 11th to 16th August 2026!",
         "status": "active",
         "ad_snapshot_url": null,
         "has_real_id": false,
-        "scraped_at": "2026-08-12T03:06:54.645361"
+        "scraped_at": "2026-08-13T03:09:59.387391"
       }
     ],
-    "count": 17,
+    "count": 19,
     "page_id": "354233975342508",
     "source_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=LK&is_targeted_country=false&media_type=all&search_type=page&sort_data[direction]=desc&sort_data[mode]=total_impressions&view_all_page_id=354233975342508",
-    "collected_at": "2026-08-12T03:06:54.909766"
+    "collected_at": "2026-08-13T03:09:59.666394"
   },
   "SPAR Sri Lanka": {
     "ads": [
       {
-        "id": "2410124982844341",
+        "id": "1706552457057383",
         "brand": "SPAR Sri Lanka",
         "page_name": "SPAR Sri Lanka",
         "start_date": "Jul 23, 2026",
         "platforms": [],
         "text_preview": "",
         "status": "active",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1706552457057383",
+        "scraped_at": "2026-08-13T03:10:44.684040"
+      },
+      {
+        "id": "2410124982844341",
+        "brand": "SPAR Sri Lanka",
+        "page_name": "SPAR Sri Lanka",
+        "start_date": null,
+        "platforms": [],
+        "text_preview": "",
+        "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2410124982844341",
-        "scraped_at": "2026-08-12T03:07:39.917491"
-      },
-      {
-        "id": "2104018453852370",
-        "brand": "SPAR Sri Lanka",
-        "page_name": "SPAR Sri Lanka",
-        "start_date": null,
-        "platforms": [],
-        "text_preview": "",
-        "status": "active",
-        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2104018453852370",
-        "scraped_at": "2026-08-12T03:07:39.917505"
-      },
-      {
-        "id": "1833979951343206",
-        "brand": "SPAR Sri Lanka",
-        "page_name": "SPAR Sri Lanka",
-        "start_date": null,
-        "platforms": [],
-        "text_preview": "",
-        "status": "active",
-        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1833979951343206",
-        "scraped_at": "2026-08-12T03:07:39.917507"
-      },
-      {
-        "id": "1617969466353604",
-        "brand": "SPAR Sri Lanka",
-        "page_name": "SPAR Sri Lanka",
-        "start_date": null,
-        "platforms": [],
-        "text_preview": "",
-        "status": "active",
-        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1617969466353604",
-        "scraped_at": "2026-08-12T03:07:39.917509"
+        "scraped_at": "2026-08-13T03:10:44.684051"
       },
       {
         "id": "1711083230141440",
@@ -769,18 +782,18 @@
         "text_preview": "",
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1711083230141440",
-        "scraped_at": "2026-08-12T03:07:39.917511"
+        "scraped_at": "2026-08-13T03:10:44.684054"
       },
       {
-        "id": "1706552457057383",
+        "id": "2104018453852370",
         "brand": "SPAR Sri Lanka",
         "page_name": "SPAR Sri Lanka",
         "start_date": null,
         "platforms": [],
         "text_preview": "",
         "status": "active",
-        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1706552457057383",
-        "scraped_at": "2026-08-12T03:07:39.917513"
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2104018453852370",
+        "scraped_at": "2026-08-13T03:10:44.684055"
       },
       {
         "id": "1367389762016808",
@@ -791,18 +804,7 @@
         "text_preview": "",
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1367389762016808",
-        "scraped_at": "2026-08-12T03:07:39.917514"
-      },
-      {
-        "id": "1368098165463846",
-        "brand": "SPAR Sri Lanka",
-        "page_name": "SPAR Sri Lanka",
-        "start_date": null,
-        "platforms": [],
-        "text_preview": "",
-        "status": "active",
-        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1368098165463846",
-        "scraped_at": "2026-08-12T03:07:39.917516"
+        "scraped_at": "2026-08-13T03:10:44.684057"
       },
       {
         "id": "1336699158585220",
@@ -813,7 +815,29 @@
         "text_preview": "",
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1336699158585220",
-        "scraped_at": "2026-08-12T03:07:39.917518"
+        "scraped_at": "2026-08-13T03:10:44.684058"
+      },
+      {
+        "id": "1368098165463846",
+        "brand": "SPAR Sri Lanka",
+        "page_name": "SPAR Sri Lanka",
+        "start_date": null,
+        "platforms": [],
+        "text_preview": "",
+        "status": "active",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1368098165463846",
+        "scraped_at": "2026-08-13T03:10:44.684060"
+      },
+      {
+        "id": "1617969466353604",
+        "brand": "SPAR Sri Lanka",
+        "page_name": "SPAR Sri Lanka",
+        "start_date": null,
+        "platforms": [],
+        "text_preview": "",
+        "status": "active",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1617969466353604",
+        "scraped_at": "2026-08-13T03:10:44.684062"
       },
       {
         "id": "1761336265313336",
@@ -824,18 +848,7 @@
         "text_preview": "",
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1761336265313336",
-        "scraped_at": "2026-08-12T03:07:39.917520"
-      },
-      {
-        "id": "2343050679771395",
-        "brand": "SPAR Sri Lanka",
-        "page_name": "SPAR Sri Lanka",
-        "start_date": null,
-        "platforms": [],
-        "text_preview": "",
-        "status": "active",
-        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2343050679771395",
-        "scraped_at": "2026-08-12T03:07:39.917521"
+        "scraped_at": "2026-08-13T03:10:44.684063"
       },
       {
         "id": "1883931562584774",
@@ -846,40 +859,7 @@
         "text_preview": "",
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1883931562584774",
-        "scraped_at": "2026-08-12T03:07:39.917523"
-      },
-      {
-        "id": "1023915720440282",
-        "brand": "SPAR Sri Lanka",
-        "page_name": "SPAR Sri Lanka",
-        "start_date": null,
-        "platforms": [],
-        "text_preview": "",
-        "status": "active",
-        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1023915720440282",
-        "scraped_at": "2026-08-12T03:07:39.917524"
-      },
-      {
-        "id": "2222457771937554",
-        "brand": "SPAR Sri Lanka",
-        "page_name": "SPAR Sri Lanka",
-        "start_date": null,
-        "platforms": [],
-        "text_preview": "",
-        "status": "active",
-        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2222457771937554",
-        "scraped_at": "2026-08-12T03:07:39.917526"
-      },
-      {
-        "id": "27706916162296426",
-        "brand": "SPAR Sri Lanka",
-        "page_name": "SPAR Sri Lanka",
-        "start_date": null,
-        "platforms": [],
-        "text_preview": "",
-        "status": "active",
-        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=27706916162296426",
-        "scraped_at": "2026-08-12T03:07:39.917528"
+        "scraped_at": "2026-08-13T03:10:44.684065"
       },
       {
         "id": "1344849567826403",
@@ -890,10 +870,65 @@
         "text_preview": "",
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1344849567826403",
-        "scraped_at": "2026-08-12T03:07:39.917529"
+        "scraped_at": "2026-08-13T03:10:44.684066"
       },
       {
-        "id": "ad_970591",
+        "id": "1833979951343206",
+        "brand": "SPAR Sri Lanka",
+        "page_name": "SPAR Sri Lanka",
+        "start_date": null,
+        "platforms": [],
+        "text_preview": "",
+        "status": "active",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1833979951343206",
+        "scraped_at": "2026-08-13T03:10:44.684068"
+      },
+      {
+        "id": "2222457771937554",
+        "brand": "SPAR Sri Lanka",
+        "page_name": "SPAR Sri Lanka",
+        "start_date": null,
+        "platforms": [],
+        "text_preview": "",
+        "status": "active",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2222457771937554",
+        "scraped_at": "2026-08-13T03:10:44.684069"
+      },
+      {
+        "id": "27706916162296426",
+        "brand": "SPAR Sri Lanka",
+        "page_name": "SPAR Sri Lanka",
+        "start_date": null,
+        "platforms": [],
+        "text_preview": "",
+        "status": "active",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=27706916162296426",
+        "scraped_at": "2026-08-13T03:10:44.684071"
+      },
+      {
+        "id": "1023915720440282",
+        "brand": "SPAR Sri Lanka",
+        "page_name": "SPAR Sri Lanka",
+        "start_date": null,
+        "platforms": [],
+        "text_preview": "",
+        "status": "active",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1023915720440282",
+        "scraped_at": "2026-08-13T03:10:44.684072"
+      },
+      {
+        "id": "2343050679771395",
+        "brand": "SPAR Sri Lanka",
+        "page_name": "SPAR Sri Lanka",
+        "start_date": null,
+        "platforms": [],
+        "text_preview": "",
+        "status": "active",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2343050679771395",
+        "scraped_at": "2026-08-13T03:10:44.684074"
+      },
+      {
+        "id": "ad_876086",
         "brand": "SPAR Sri Lanka",
         "page_name": "SPAR Sri Lanka",
         "start_date": "Jul 23, 2026",
@@ -902,12 +937,12 @@
         "status": "active",
         "ad_snapshot_url": null,
         "has_real_id": false,
-        "scraped_at": "2026-08-12T03:07:39.738859"
+        "scraped_at": "2026-08-13T03:10:44.486207"
       }
     ],
     "count": 17,
     "page_id": "290159608091322",
     "source_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=LK&is_targeted_country=false&media_type=all&search_type=page&sort_data[direction]=desc&sort_data[mode]=total_impressions&view_all_page_id=290159608091322",
-    "collected_at": "2026-08-12T03:07:39.958558"
+    "collected_at": "2026-08-13T03:10:44.724472"
   }
 }
