@@ -11,7 +11,7 @@
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=960930483479040",
         "has_real_id": true,
-        "scraped_at": "2026-08-21T02:08:21.256991"
+        "scraped_at": "2026-08-22T01:58:05.314867"
       },
       {
         "id": "2467753847026105",
@@ -23,7 +23,7 @@
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2467753847026105",
         "has_real_id": true,
-        "scraped_at": "2026-08-21T02:08:21.257025"
+        "scraped_at": "2026-08-22T01:58:05.314897"
       },
       {
         "id": "4996619773897877",
@@ -35,43 +35,55 @@
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=4996619773897877",
         "has_real_id": true,
-        "scraped_at": "2026-08-21T02:08:21.257042"
+        "scraped_at": "2026-08-22T01:58:05.314915"
       },
       {
-        "id": "1400832685251598",
+        "id": "1050187734533072",
         "brand": "Keells Super",
         "page_name": "Keells Super",
         "start_date": "Jul 6, 2026",
         "platforms": [],
         "text_preview": "This ad has multiple versions",
         "status": "active",
-        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1400832685251598",
-        "has_real_id": true,
-        "scraped_at": "2026-08-21T02:08:21.257055"
-      },
-      {
-        "id": "1050187734533072",
-        "brand": "Keells Super",
-        "page_name": "Keells Super",
-        "start_date": "Aug 11, 2026",
-        "platforms": [],
-        "text_preview": "Satisfy your sweet cravings with Keells desserts🍮 . Order now via PickMe Food or Uber Eats.",
-        "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1050187734533072",
         "has_real_id": true,
-        "scraped_at": "2026-08-21T02:08:21.257072"
+        "scraped_at": "2026-08-22T01:58:05.314927"
       },
       {
-        "id": "3382092481972380",
+        "id": "1400832685251598",
         "brand": "Keells Super",
         "page_name": "Keells Super",
         "start_date": "Aug 12, 2026",
         "platforms": [],
         "text_preview": "Save more every time you shop 🛒💚",
         "status": "active",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1400832685251598",
+        "has_real_id": true,
+        "scraped_at": "2026-08-22T01:58:05.314940"
+      },
+      {
+        "id": "1093837496406188",
+        "brand": "Keells Super",
+        "page_name": "Keells Super",
+        "start_date": "Aug 11, 2026",
+        "platforms": [],
+        "text_preview": "Satisfy your sweet cravings with Keells desserts🍮 . Order now via PickMe Food or Uber Eats.",
+        "status": "active",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1093837496406188",
+        "has_real_id": true,
+        "scraped_at": "2026-08-22T01:58:05.314957"
+      },
+      {
+        "id": "3382092481972380",
+        "brand": "Keells Super",
+        "page_name": "Keells Super",
+        "start_date": "Aug 6, 2026",
+        "platforms": [],
+        "text_preview": "Enjoy 10% off on total bill for all VISA cards when you shop at Keells! 🥳",
+        "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=3382092481972380",
         "has_real_id": true,
-        "scraped_at": "2026-08-21T02:08:21.257084"
+        "scraped_at": "2026-08-22T01:58:05.314968"
       },
       {
         "id": "1187586793578025",
@@ -83,31 +95,19 @@
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1187586793578025",
         "has_real_id": true,
-        "scraped_at": "2026-08-21T02:08:21.257097"
+        "scraped_at": "2026-08-22T01:58:05.314980"
       },
       {
-        "id": "1093837496406188",
+        "id": "1496632495813304",
         "brand": "Keells Super",
         "page_name": "Keells Super",
         "start_date": "Aug 3, 2026",
         "platforms": [],
         "text_preview": "புதிதாக Keells Nexus அங்கத்தவராகும் உங்களுக்கு, 22K (4g) தங்க நாணயமொன்றை வெல்லும் வாய்ப்பு! 🤩✨",
         "status": "active",
-        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1093837496406188",
-        "has_real_id": true,
-        "scraped_at": "2026-08-21T02:08:21.257109"
-      },
-      {
-        "id": "1496632495813304",
-        "brand": "Keells Super",
-        "page_name": "Keells Super",
-        "start_date": "Aug 6, 2026",
-        "platforms": [],
-        "text_preview": "Enjoy 10% off on total bill for all VISA cards when you shop at Keells! 🥳",
-        "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1496632495813304",
         "has_real_id": true,
-        "scraped_at": "2026-08-21T02:08:21.257120"
+        "scraped_at": "2026-08-22T01:58:05.314993"
       },
       {
         "id": "1060261766676923",
@@ -119,91 +119,67 @@
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1060261766676923",
         "has_real_id": true,
-        "scraped_at": "2026-08-21T02:08:21.257133"
+        "scraped_at": "2026-08-22T01:58:05.315006"
       },
       {
-        "id": "1715747329733032",
+        "id": "1770174994176820",
         "brand": "Keells Super",
         "page_name": "Keells Super",
         "start_date": "Jul 19, 2026",
         "platforms": [],
         "text_preview": "This ad has multiple versions",
         "status": "active",
-        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1715747329733032",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1770174994176820",
         "has_real_id": true,
-        "scraped_at": "2026-08-21T02:08:21.257145"
+        "scraped_at": "2026-08-22T01:58:05.315018"
       },
       {
         "id": "1603480884633166",
-        "brand": "Keells Super",
-        "page_name": "Keells Super",
-        "start_date": "Jul 19, 2026",
-        "platforms": [],
-        "text_preview": "4 ads use this creative and text",
-        "status": "active",
-        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1603480884633166",
-        "has_real_id": true,
-        "scraped_at": "2026-08-21T02:08:21.257162"
-      },
-      {
-        "id": "1770174994176820",
-        "brand": "Keells Super",
-        "page_name": "Keells Super",
-        "start_date": "Aug 6, 2026",
-        "platforms": [],
-        "text_preview": "Turn Your Shopping Into Winning! 🛍️",
-        "status": "active",
-        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1770174994176820",
-        "has_real_id": true,
-        "scraped_at": "2026-08-21T02:08:21.257174"
-      },
-      {
-        "id": "1671948441113323",
         "brand": "Keells Super",
         "page_name": "Keells Super",
         "start_date": "Aug 13, 2026",
         "platforms": [],
         "text_preview": "15 ads use this creative and text",
         "status": "active",
-        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1671948441113323",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1603480884633166",
         "has_real_id": true,
-        "scraped_at": "2026-08-21T02:08:21.257185"
+        "scraped_at": "2026-08-22T01:58:05.315029"
       },
       {
-        "id": "1048465377893169",
+        "id": "1715747329733032",
+        "brand": "Keells Super",
+        "page_name": "Keells Super",
+        "start_date": "Aug 6, 2026",
+        "platforms": [],
+        "text_preview": "Turn Your Shopping Into Winning! 🛍️",
+        "status": "active",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1715747329733032",
+        "has_real_id": true,
+        "scraped_at": "2026-08-22T01:58:05.315041"
+      },
+      {
+        "id": "1671948441113323",
+        "brand": "Keells Super",
+        "page_name": "Keells Super",
+        "start_date": "Jul 19, 2026",
+        "platforms": [],
+        "text_preview": "4 ads use this creative and text",
+        "status": "active",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1671948441113323",
+        "has_real_id": true,
+        "scraped_at": "2026-08-22T01:58:05.315052"
+      },
+      {
+        "id": "994192810319789",
         "brand": "Keells Super",
         "page_name": "Keells Super",
         "start_date": "Aug 11, 2026",
         "platforms": [],
         "text_preview": "3 ads use this creative and text",
         "status": "active",
-        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1048465377893169",
-        "has_real_id": true,
-        "scraped_at": "2026-08-21T02:08:21.257195"
-      },
-      {
-        "id": "1348655500688523",
-        "brand": "Keells Super",
-        "page_name": "Keells Super",
-        "start_date": "Aug 11, 2026",
-        "platforms": [],
-        "text_preview": "Treat yourself to a refreshing Keells Milkshake, just a sip away. Order now via PickMe Food & Uber Eats.",
-        "status": "active",
-        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1348655500688523",
-        "has_real_id": true,
-        "scraped_at": "2026-08-21T02:08:21.257211"
-      },
-      {
-        "id": "994192810319789",
-        "brand": "Keells Super",
-        "page_name": "Keells Super",
-        "start_date": "Jul 23, 2026",
-        "platforms": [],
-        "text_preview": "This ad has multiple versions",
-        "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=994192810319789",
         "has_real_id": true,
-        "scraped_at": "2026-08-21T02:08:21.257249"
+        "scraped_at": "2026-08-22T01:58:05.315061"
       },
       {
         "id": "1081896167527115",
@@ -215,119 +191,145 @@
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1081896167527115",
         "has_real_id": true,
-        "scraped_at": "2026-08-21T02:08:21.257269"
+        "scraped_at": "2026-08-22T01:58:05.315070"
       },
       {
-        "id": "1043102841535269",
+        "id": "1675866963494704",
         "brand": "Keells Super",
         "page_name": "Keells Super",
         "start_date": "Aug 11, 2026",
         "platforms": [],
         "text_preview": "A healthy local breakfast delivered right to your doorstep.",
         "status": "active",
-        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1043102841535269",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1675866963494704",
         "has_real_id": true,
-        "scraped_at": "2026-08-21T02:08:21.257280"
+        "scraped_at": "2026-08-22T01:58:05.315080"
+      },
+      {
+        "id": "1048465377893169",
+        "brand": "Keells Super",
+        "page_name": "Keells Super",
+        "start_date": "Aug 12, 2026",
+        "platforms": [],
+        "text_preview": "17 ads use this creative and text",
+        "status": "active",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1048465377893169",
+        "has_real_id": true,
+        "scraped_at": "2026-08-22T01:58:05.315120"
+      },
+      {
+        "id": "1688567855565289",
+        "brand": "Keells Super",
+        "page_name": "Keells Super",
+        "start_date": "Aug 11, 2026",
+        "platforms": [],
+        "text_preview": "Treat yourself to a refreshing Keells Milkshake, just a sip away. Order now via PickMe Food & Uber Eats.",
+        "status": "active",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1688567855565289",
+        "has_real_id": true,
+        "scraped_at": "2026-08-22T01:58:05.315145"
       },
       {
         "id": "1700053951222960",
         "brand": "Keells Super",
         "page_name": "Keells Super",
-        "start_date": "Jul 23, 2026",
+        "start_date": "Aug 11, 2026",
         "platforms": [],
-        "text_preview": "17 ads use this creative and text",
+        "text_preview": "3 ads use this creative and text",
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1700053951222960",
         "has_real_id": true,
-        "scraped_at": "2026-08-21T02:08:21.257295"
+        "scraped_at": "2026-08-22T01:58:05.315155"
       },
       {
-        "id": "1286931476942510",
+        "id": "1348655500688523",
         "brand": "Keells Super",
         "page_name": "Keells Super",
-        "start_date": "Aug 3, 2026",
+        "start_date": "Aug 4, 2026",
         "platforms": [],
-        "text_preview": "",
+        "text_preview": "Your smile deserves the right start. 🦷✨ Grab the Sensodyne Toothbrush at 30% off, exclusively for you!",
         "status": "active",
-        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1286931476942510",
-        "scraped_at": "2026-08-21T02:08:21.561127"
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1348655500688523",
+        "has_real_id": true,
+        "scraped_at": "2026-08-22T01:58:05.315168"
       },
       {
-        "id": "1675866963494704",
+        "id": "1519848473515954",
         "brand": "Keells Super",
         "page_name": "Keells Super",
-        "start_date": "Jul 19, 2026",
+        "start_date": "Jul 23, 2026",
         "platforms": [],
-        "text_preview": "",
+        "text_preview": "This ad has multiple versions",
         "status": "active",
-        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1675866963494704",
-        "scraped_at": "2026-08-21T02:08:21.561132"
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1519848473515954",
+        "has_real_id": true,
+        "scraped_at": "2026-08-22T01:58:05.315179"
       },
       {
         "id": "1508062383965596",
         "brand": "Keells Super",
         "page_name": "Keells Super",
-        "start_date": "Jul 19, 2026",
+        "start_date": "Jul 23, 2026",
         "platforms": [],
         "text_preview": "",
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1508062383965596",
-        "scraped_at": "2026-08-21T02:08:21.561133"
+        "scraped_at": "2026-08-22T01:58:05.598181"
       },
       {
-        "id": "1514281023809570",
+        "id": "28680763374856959",
         "brand": "Keells Super",
         "page_name": "Keells Super",
-        "start_date": "Aug 13, 2026",
+        "start_date": "Jul 6, 2026",
         "platforms": [],
         "text_preview": "",
         "status": "active",
-        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1514281023809570",
-        "scraped_at": "2026-08-21T02:08:21.561136"
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=28680763374856959",
+        "scraped_at": "2026-08-22T01:58:05.598183"
       },
       {
-        "id": "2153432679709043",
+        "id": "4004805612988349",
         "brand": "Keells Super",
         "page_name": "Keells Super",
         "start_date": "Aug 11, 2026",
         "platforms": [],
         "text_preview": "",
         "status": "active",
-        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2153432679709043",
-        "scraped_at": "2026-08-21T02:08:21.561139"
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=4004805612988349",
+        "scraped_at": "2026-08-22T01:58:05.598200"
       },
       {
-        "id": "4004805612988349",
+        "id": "2153432679709043",
         "brand": "Keells Super",
         "page_name": "Keells Super",
-        "start_date": "Jul 23, 2026",
+        "start_date": "Aug 12, 2026",
         "platforms": [],
         "text_preview": "",
         "status": "active",
-        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=4004805612988349",
-        "scraped_at": "2026-08-21T02:08:21.561140"
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2153432679709043",
+        "scraped_at": "2026-08-22T01:58:05.598203"
       },
       {
-        "id": "1545835447007275",
+        "id": "1903831710322894",
         "brand": "Keells Super",
         "page_name": "Keells Super",
         "start_date": "Aug 4, 2026",
         "platforms": [],
         "text_preview": "",
         "status": "active",
-        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1545835447007275",
-        "scraped_at": "2026-08-21T02:08:21.561146"
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1903831710322894",
+        "scraped_at": "2026-08-22T01:58:05.598208"
       },
       {
-        "id": "1903831710322894",
+        "id": "1514281023809570",
         "brand": "Keells Super",
         "page_name": "Keells Super",
         "start_date": null,
         "platforms": [],
         "text_preview": "",
         "status": "active",
-        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1903831710322894",
-        "scraped_at": "2026-08-21T02:08:21.561150"
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1514281023809570",
+        "scraped_at": "2026-08-22T01:58:05.598212"
       },
       {
         "id": "2222128221657849",
@@ -338,50 +340,62 @@
         "text_preview": "",
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2222128221657849",
-        "scraped_at": "2026-08-21T02:08:21.561152"
+        "scraped_at": "2026-08-22T01:58:05.598215"
       },
       {
-        "id": "28680763374856959",
+        "id": "1545835447007275",
         "brand": "Keells Super",
         "page_name": "Keells Super",
         "start_date": null,
         "platforms": [],
         "text_preview": "",
         "status": "active",
-        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=28680763374856959",
-        "scraped_at": "2026-08-21T02:08:21.561155"
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1545835447007275",
+        "scraped_at": "2026-08-22T01:58:05.598220"
       },
       {
-        "id": "ad_354684",
+        "id": "ad_790740",
         "brand": "Keells Super",
         "page_name": "Keells Super",
-        "start_date": "Aug 4, 2026",
+        "start_date": "Aug 14, 2026",
         "platforms": [],
-        "text_preview": "Your smile deserves the right start. 🦷✨ Grab the Sensodyne Toothbrush at 30% off, exclusively for you!",
+        "text_preview": "18 ads use this creative and text",
         "status": "active",
         "ad_snapshot_url": null,
         "has_real_id": false,
-        "scraped_at": "2026-08-21T02:08:21.257312"
+        "scraped_at": "2026-08-22T01:58:05.315195"
       }
     ],
     "count": 31,
     "page_id": "108836225822670",
     "source_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=LK&is_targeted_country=false&media_type=all&search_type=page&sort_data[direction]=desc&sort_data[mode]=total_impressions&view_all_page_id=108836225822670",
-    "collected_at": "2026-08-21T02:08:21.603698"
+    "collected_at": "2026-08-22T01:58:05.645581"
   },
   "Cargills Food City": {
     "ads": [
       {
-        "id": "1101991732393145",
+        "id": "1739101483929944",
         "brand": "Cargills Food City",
         "page_name": "Cargills Food City",
         "start_date": "Jul 30, 2026",
         "platforms": [],
         "text_preview": "ඉගෙන ගන්න ගමන්  pocket money එකක් හොයන්නයි, අනාගතයට අත්දැකීම් එකතු කර ගන්නයි හොඳම අවස්ථාවක්.",
         "status": "active",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1739101483929944",
+        "has_real_id": true,
+        "scraped_at": "2026-08-22T01:58:50.477372"
+      },
+      {
+        "id": "1101991732393145",
+        "brand": "Cargills Food City",
+        "page_name": "Cargills Food City",
+        "start_date": "Aug 19, 2026",
+        "platforms": [],
+        "text_preview": "ස්ථීර අනාගතයකට ස්ථාවර රැකියාවක් සොයන ඔබට කදිම අවස්ථාවක්!",
+        "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1101991732393145",
         "has_real_id": true,
-        "scraped_at": "2026-08-21T02:09:06.485950"
+        "scraped_at": "2026-08-22T01:58:50.477396"
       },
       {
         "id": "1024320333775600",
@@ -393,7 +407,7 @@
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1024320333775600",
         "has_real_id": true,
-        "scraped_at": "2026-08-21T02:09:06.485973"
+        "scraped_at": "2026-08-22T01:58:50.477411"
       },
       {
         "id": "941555908977925",
@@ -405,7 +419,7 @@
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=941555908977925",
         "has_real_id": true,
-        "scraped_at": "2026-08-21T02:09:06.485987"
+        "scraped_at": "2026-08-22T01:58:50.477424"
       },
       {
         "id": "1047429171240769",
@@ -417,7 +431,7 @@
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1047429171240769",
         "has_real_id": true,
-        "scraped_at": "2026-08-21T02:09:06.485998"
+        "scraped_at": "2026-08-22T01:58:50.477437"
       },
       {
         "id": "1602530781268882",
@@ -429,7 +443,7 @@
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1602530781268882",
         "has_real_id": true,
-        "scraped_at": "2026-08-21T02:09:06.486007"
+        "scraped_at": "2026-08-22T01:58:50.477447"
       },
       {
         "id": "1013290765021549",
@@ -441,19 +455,7 @@
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1013290765021549",
         "has_real_id": true,
-        "scraped_at": "2026-08-21T02:09:06.486017"
-      },
-      {
-        "id": "1739101483929944",
-        "brand": "Cargills Food City",
-        "page_name": "Cargills Food City",
-        "start_date": "Aug 13, 2026",
-        "platforms": [],
-        "text_preview": "This ad has multiple versions",
-        "status": "active",
-        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1739101483929944",
-        "has_real_id": true,
-        "scraped_at": "2026-08-21T02:09:06.486026"
+        "scraped_at": "2026-08-22T01:58:50.477456"
       },
       {
         "id": "2144980303030698",
@@ -464,25 +466,13 @@
         "text_preview": "",
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2144980303030698",
-        "scraped_at": "2026-08-21T02:09:06.690280"
-      },
-      {
-        "id": "ad_472077",
-        "brand": "Cargills Food City",
-        "page_name": "Cargills Food City",
-        "start_date": "Aug 19, 2026",
-        "platforms": [],
-        "text_preview": "ස්ථීර අනාගතයකට ස්ථාවර රැකියාවක් සොයන ඔබට කදිම අවස්ථාවක්!",
-        "status": "active",
-        "ad_snapshot_url": null,
-        "has_real_id": false,
-        "scraped_at": "2026-08-21T02:09:06.486043"
+        "scraped_at": "2026-08-22T01:58:50.685230"
       }
     ],
-    "count": 9,
+    "count": 8,
     "page_id": "155866468723",
     "source_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=LK&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=155866468723",
-    "collected_at": "2026-08-21T02:09:06.735542"
+    "collected_at": "2026-08-22T01:58:50.728299"
   },
   "Softlogic Glomark": {
     "ads": [
@@ -496,7 +486,7 @@
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1037179575619901",
         "has_real_id": true,
-        "scraped_at": "2026-08-21T02:09:51.720277"
+        "scraped_at": "2026-08-22T01:59:36.097382"
       },
       {
         "id": "1391452329545957",
@@ -508,19 +498,7 @@
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1391452329545957",
         "has_real_id": true,
-        "scraped_at": "2026-08-21T02:09:51.720300"
-      },
-      {
-        "id": "27393229070377598",
-        "brand": "Softlogic Glomark",
-        "page_name": "Softlogic Glomark",
-        "start_date": "Aug 1, 2026",
-        "platforms": [],
-        "text_preview": "Enjoy 20% DISCOUNT on your Total Bill with GLO Super Saturday and save up to Rs. 4,000 every Saturday for in-store purchases at GLOMARK, exclusively for Softlogic ONE Loyalty Member - excluding essential stores.",
-        "status": "active",
-        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=27393229070377598",
-        "has_real_id": true,
-        "scraped_at": "2026-08-21T02:09:51.720316"
+        "scraped_at": "2026-08-22T01:59:36.097405"
       },
       {
         "id": "1377585564439660",
@@ -528,35 +506,71 @@
         "page_name": "Softlogic Glomark",
         "start_date": "Aug 1, 2026",
         "platforms": [],
-        "text_preview": "August is here, and GLOMARK has exciting credit and debit card offers just for you!",
+        "text_preview": "Enjoy 20% DISCOUNT on your Total Bill with GLO Super Saturday and save up to Rs. 4,000 every Saturday for in-store purchases at GLOMARK, exclusively for Softlogic ONE Loyalty Member - excluding essential stores.",
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1377585564439660",
         "has_real_id": true,
-        "scraped_at": "2026-08-21T02:09:51.720328"
+        "scraped_at": "2026-08-22T01:59:36.097420"
       },
       {
-        "id": "2549518078892472",
+        "id": "27393229070377598",
         "brand": "Softlogic Glomark",
         "page_name": "Softlogic Glomark",
         "start_date": "Aug 14, 2026",
         "platforms": [],
         "text_preview": "25% OFF on your essentials items!",
         "status": "active",
-        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2549518078892472",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=27393229070377598",
         "has_real_id": true,
-        "scraped_at": "2026-08-21T02:09:51.720339"
+        "scraped_at": "2026-08-22T01:59:36.097432"
       },
       {
-        "id": "1047064631013413",
+        "id": "2629453054150926",
+        "brand": "Softlogic Glomark",
+        "page_name": "Softlogic Glomark",
+        "start_date": "Aug 1, 2026",
+        "platforms": [],
+        "text_preview": "August is here, and GLOMARK has exciting credit and debit card offers just for you!",
+        "status": "active",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2629453054150926",
+        "has_real_id": true,
+        "scraped_at": "2026-08-22T01:59:36.097444"
+      },
+      {
+        "id": "2549518078892472",
+        "brand": "Softlogic Glomark",
+        "page_name": "Softlogic Glomark",
+        "start_date": "Aug 16, 2026",
+        "platforms": [],
+        "text_preview": "𝐖𝐡𝐢𝐜𝐡 𝐞𝐠𝐠 𝐢𝐬 𝐡𝐞𝐚𝐥𝐭𝐡𝐢𝐞𝐫: 𝐁𝐫𝐨𝐰𝐧 𝐨𝐫 𝐖𝐡𝐢𝐭𝐞? 🥚",
+        "status": "active",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2549518078892472",
+        "has_real_id": true,
+        "scraped_at": "2026-08-22T01:59:36.097458"
+      },
+      {
+        "id": "1703186764291584",
         "brand": "Softlogic Glomark",
         "page_name": "Softlogic Glomark",
         "start_date": "Aug 5, 2026",
         "platforms": [],
         "text_preview": "Take Home Better with 25% DISCOUNT for your FRESH BILL with Pan Asia Bank Credit Cards on every Thursday, till 31st August 2026 at all GLOMARK outlets and online via glomark.lk.",
         "status": "active",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1703186764291584",
+        "has_real_id": true,
+        "scraped_at": "2026-08-22T01:59:36.097473"
+      },
+      {
+        "id": "1047064631013413",
+        "brand": "Softlogic Glomark",
+        "page_name": "Softlogic Glomark",
+        "start_date": "Aug 11, 2026",
+        "platforms": [],
+        "text_preview": "Take home a better life with 15% DISCOUNT on TOTAL BILL with Amana Bank Debit Cards on every Wednesday until 31st August 2026 at GLOMARK and online via www.glomark.lk.",
+        "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1047064631013413",
         "has_real_id": true,
-        "scraped_at": "2026-08-21T02:09:51.720353"
+        "scraped_at": "2026-08-22T01:59:36.097487"
       },
       {
         "id": "2040000406646847",
@@ -568,67 +582,55 @@
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2040000406646847",
         "has_real_id": true,
-        "scraped_at": "2026-08-21T02:09:51.720368"
+        "scraped_at": "2026-08-22T01:59:36.097501"
       },
       {
-        "id": "2629453054150926",
+        "id": "1504455281701982",
         "brand": "Softlogic Glomark",
         "page_name": "Softlogic Glomark",
         "start_date": "Aug 8, 2026",
         "platforms": [],
         "text_preview": "Take home a better life with 30% OFF for Sampath Bank Credit Cards & 20% OFF Sampath Debit Cards for Vegetables, Fruits, Meat & Fish. Offer available at your nearest GLOMARK outlets on every Sunday till the 31st August 2026.",
         "status": "active",
-        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2629453054150926",
-        "has_real_id": true,
-        "scraped_at": "2026-08-21T02:09:51.720381"
-      },
-      {
-        "id": "1504455281701982",
-        "brand": "Softlogic Glomark",
-        "page_name": "Softlogic Glomark",
-        "start_date": "Aug 16, 2026",
-        "platforms": [],
-        "text_preview": "𝐖𝐡𝐢𝐜𝐡 𝐞𝐠𝐠 𝐢𝐬 𝐡𝐞𝐚𝐥𝐭𝐡𝐢𝐞𝐫: 𝐁𝐫𝐨𝐰𝐧 𝐨𝐫 𝐖𝐡𝐢𝐭𝐞? 🥚",
-        "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1504455281701982",
         "has_real_id": true,
-        "scraped_at": "2026-08-21T02:09:51.720396"
+        "scraped_at": "2026-08-22T01:59:36.097514"
       },
       {
-        "id": "1703186764291584",
+        "id": "1027812526752180",
         "brand": "Softlogic Glomark",
         "page_name": "Softlogic Glomark",
         "start_date": "Aug 13, 2026",
         "platforms": [],
         "text_preview": "ගෙට Better Life with 25% DISCOUNT from People’s Bank Credit Cards and 10% DISCOUNT from People's Bank Debit Cards on your Supermarket Bill, every Friday until 31st August 2026. Shop at any GLOMARK outlet or online via www.glomark.lk.",
         "status": "active",
-        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1703186764291584",
-        "has_real_id": true,
-        "scraped_at": "2026-08-21T02:09:51.720412"
-      },
-      {
-        "id": "1027812526752180",
-        "brand": "Softlogic Glomark",
-        "page_name": "Softlogic Glomark",
-        "start_date": "Aug 11, 2026",
-        "platforms": [],
-        "text_preview": "Take home a better life with 15% DISCOUNT on TOTAL BILL with Amana Bank Debit Cards on every Wednesday until 31st August 2026 at GLOMARK and online via www.glomark.lk.",
-        "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1027812526752180",
         "has_real_id": true,
-        "scraped_at": "2026-08-21T02:09:51.720425"
+        "scraped_at": "2026-08-22T01:59:36.097529"
       },
       {
-        "id": "1581198326722843",
+        "id": "1011115775263880",
         "brand": "Softlogic Glomark",
         "page_name": "Softlogic Glomark",
         "start_date": "Aug 8, 2026",
         "platforms": [],
         "text_preview": "Take home a better life with 25% OFF on BOC Credit Cards and 15% OFF on BOC Debit Cards on 02nd, 16th & 30th August  2026. Discount is valid on the Supermarket Bill for purchases made at any GLOMARK outlet or online via www.glomark.lk.",
         "status": "active",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1011115775263880",
+        "has_real_id": true,
+        "scraped_at": "2026-08-22T01:59:36.097542"
+      },
+      {
+        "id": "1581198326722843",
+        "brand": "Softlogic Glomark",
+        "page_name": "Softlogic Glomark",
+        "start_date": "Aug 16, 2026",
+        "platforms": [],
+        "text_preview": "Ready for the challenge?",
+        "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1581198326722843",
         "has_real_id": true,
-        "scraped_at": "2026-08-21T02:09:51.720438"
+        "scraped_at": "2026-08-22T01:59:36.097552"
       },
       {
         "id": "1567319508371736",
@@ -640,99 +642,205 @@
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1567319508371736",
         "has_real_id": true,
-        "scraped_at": "2026-08-21T02:09:51.720451"
+        "scraped_at": "2026-08-22T01:59:36.097565"
       },
       {
-        "id": "2527246294444779",
+        "id": "936382555418769",
         "brand": "Softlogic Glomark",
         "page_name": "Softlogic Glomark",
         "start_date": "Aug 8, 2026",
         "platforms": [],
         "text_preview": "Take home a better life with 25% DISCOUNT on SUPERMARKET BILL with Union Bank Credit Cards, on 02nd & 30th August 2026. Shop at any GLOMARK outlet or online via www.glomark.lk.",
         "status": "active",
-        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2527246294444779",
-        "has_real_id": true,
-        "scraped_at": "2026-08-21T02:09:51.720464"
-      },
-      {
-        "id": "1011115775263880",
-        "brand": "Softlogic Glomark",
-        "page_name": "Softlogic Glomark",
-        "start_date": "Aug 19, 2026 · Total active time 20 hrs",
-        "platforms": [],
-        "text_preview": "Get ready to save BETTER with Sampath Bank Credit Cards!",
-        "status": "active",
-        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1011115775263880",
-        "has_real_id": true,
-        "scraped_at": "2026-08-21T02:09:51.720477"
-      },
-      {
-        "id": "936382555418769",
-        "brand": "Softlogic Glomark",
-        "page_name": "Softlogic Glomark",
-        "start_date": "Aug 16, 2026",
-        "platforms": [],
-        "text_preview": "Ready for the challenge?",
-        "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=936382555418769",
         "has_real_id": true,
-        "scraped_at": "2026-08-21T02:09:51.720488"
+        "scraped_at": "2026-08-22T01:59:36.097578"
       },
       {
-        "id": "1797424941283991",
+        "id": "1409816277708903",
         "brand": "Softlogic Glomark",
         "page_name": "Softlogic Glomark",
         "start_date": "Aug 13, 2026",
         "platforms": [],
         "text_preview": "Take a home a better life with 25% off with HNB Credit Cards and 15% off with HNB Debit Cards on 14th & 28th August 2026. Discount is valid on the Supermarket Bill for purchases made at any GLOMARK outlet (3 PM - 8 PM) or online via www.glomark.lk throughout the day.",
         "status": "active",
-        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1797424941283991",
-        "has_real_id": true,
-        "scraped_at": "2026-08-21T02:09:51.720503"
-      },
-      {
-        "id": "1409816277708903",
-        "brand": "Softlogic Glomark",
-        "page_name": "Softlogic Glomark",
-        "start_date": "Aug 20, 2026 · Total active time 6 hrs",
-        "platforms": [],
-        "text_preview": "Take Home Better with 25% DISCOUNT for your FRESH BILL with HNB Credit Cards on 21st August 2026 at all GLOMARK outlets and online via glomark.lk.",
-        "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1409816277708903",
         "has_real_id": true,
-        "scraped_at": "2026-08-21T02:09:51.720517"
+        "scraped_at": "2026-08-22T01:59:36.097592"
       },
       {
-        "id": "2598527143911138",
-        "brand": "Softlogic Glomark",
-        "page_name": "Softlogic Glomark",
-        "start_date": "Aug 20, 2026",
-        "platforms": [],
-        "text_preview": "",
-        "status": "active",
-        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2598527143911138",
-        "scraped_at": "2026-08-21T02:09:51.951644"
-      },
-      {
-        "id": "ad_899334",
+        "id": "2312259859590669",
         "brand": "Softlogic Glomark",
         "page_name": "Softlogic Glomark",
         "start_date": "Aug 19, 2026",
         "platforms": [],
         "text_preview": "Take Home Better Discounts with Softlogic GLOMARK on 17th to 23rd August 2026!",
         "status": "active",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2312259859590669",
+        "has_real_id": true,
+        "scraped_at": "2026-08-22T01:59:36.097605"
+      },
+      {
+        "id": "2598527143911138",
+        "brand": "Softlogic Glomark",
+        "page_name": "Softlogic Glomark",
+        "start_date": "Aug 1, 2026",
+        "platforms": [],
+        "text_preview": "",
+        "status": "active",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2598527143911138",
+        "scraped_at": "2026-08-22T01:59:36.323594"
+      },
+      {
+        "id": "ad_855673",
+        "brand": "Softlogic Glomark",
+        "page_name": "Softlogic Glomark",
+        "start_date": "Aug 21, 2026 · Total active time 18 hrs",
+        "platforms": [],
+        "text_preview": "Discover. Shop. Connect.",
+        "status": "active",
         "ad_snapshot_url": null,
         "has_real_id": false,
-        "scraped_at": "2026-08-21T02:09:51.720532"
+        "scraped_at": "2026-08-22T01:59:36.097621"
       }
     ],
-    "count": 20,
+    "count": 19,
     "page_id": "354233975342508",
     "source_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=LK&is_targeted_country=false&media_type=all&search_type=page&sort_data[direction]=desc&sort_data[mode]=total_impressions&view_all_page_id=354233975342508",
-    "collected_at": "2026-08-21T02:09:51.994801"
+    "collected_at": "2026-08-22T01:59:36.361166"
   },
   "SPAR Sri Lanka": {
     "ads": [
+      {
+        "id": "1032826856299259",
+        "brand": "SPAR Sri Lanka",
+        "page_name": "SPAR Sri Lanka",
+        "start_date": "Aug 20, 2026",
+        "platforms": [],
+        "text_preview": "Bake Happy Memories with Astra! 🎂✨",
+        "status": "active",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1032826856299259",
+        "has_real_id": true,
+        "scraped_at": "2026-08-22T02:00:21.409769"
+      },
+      {
+        "id": "1352791723501764",
+        "brand": "SPAR Sri Lanka",
+        "page_name": "SPAR Sri Lanka",
+        "start_date": "Aug 21, 2026 · Total active time 19 hrs",
+        "platforms": [],
+        "text_preview": "2 ads use this creative and text",
+        "status": "active",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1352791723501764",
+        "has_real_id": true,
+        "scraped_at": "2026-08-22T02:00:21.409795"
+      },
+      {
+        "id": "3569362059885342",
+        "brand": "SPAR Sri Lanka",
+        "page_name": "SPAR Sri Lanka",
+        "start_date": "Aug 20, 2026",
+        "platforms": [],
+        "text_preview": "SPAR වෙතින් භාණ්ඩ මිලදී ගන්නා ඔබට සුඛෝපභෝගී High Tea අත්දැකීමක් විඳගන්න....",
+        "status": "active",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=3569362059885342",
+        "has_real_id": true,
+        "scraped_at": "2026-08-22T02:00:21.409814"
+      },
+      {
+        "id": "1016866554683619",
+        "brand": "SPAR Sri Lanka",
+        "page_name": "SPAR Sri Lanka",
+        "start_date": "Aug 20, 2026",
+        "platforms": [],
+        "text_preview": "හෙළ සම්ප්‍රදායේ අභිමානයට, අපේ උත්තමාචාරය  ❤️✨",
+        "status": "active",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1016866554683619",
+        "has_real_id": true,
+        "scraped_at": "2026-08-22T02:00:21.409827"
+      },
+      {
+        "id": "1046779318265572",
+        "brand": "SPAR Sri Lanka",
+        "page_name": "SPAR Sri Lanka",
+        "start_date": "Aug 20, 2026",
+        "platforms": [],
+        "text_preview": "SPAR is an internationally renowned supermarket chain now in Sri Lanka!",
+        "status": "active",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1046779318265572",
+        "has_real_id": true,
+        "scraped_at": "2026-08-22T02:00:21.409840"
+      },
+      {
+        "id": "1712203960004326",
+        "brand": "SPAR Sri Lanka",
+        "page_name": "SPAR Sri Lanka",
+        "start_date": "Aug 20, 2026",
+        "platforms": [],
+        "text_preview": "8 Years of Growing Together — and we're celebrating YOU! 🎉",
+        "status": "active",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1712203960004326",
+        "has_real_id": true,
+        "scraped_at": "2026-08-22T02:00:21.409858"
+      },
+      {
+        "id": "1067850005651535",
+        "brand": "SPAR Sri Lanka",
+        "page_name": "SPAR Sri Lanka",
+        "start_date": "Aug 20, 2026",
+        "platforms": [],
+        "text_preview": "🎉 SPAR සමඟ වසර 8ක සතුට සමරමු! ❤️💚",
+        "status": "active",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1067850005651535",
+        "has_real_id": true,
+        "scraped_at": "2026-08-22T02:00:21.409870"
+      },
+      {
+        "id": "2124566258456327",
+        "brand": "SPAR Sri Lanka",
+        "page_name": "SPAR Sri Lanka",
+        "start_date": "Aug 20, 2026",
+        "platforms": [],
+        "text_preview": "2 ads use this creative and text",
+        "status": "active",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2124566258456327",
+        "has_real_id": true,
+        "scraped_at": "2026-08-22T02:00:21.409883"
+      },
+      {
+        "id": "1454216619879945",
+        "brand": "SPAR Sri Lanka",
+        "page_name": "SPAR Sri Lanka",
+        "start_date": "Aug 20, 2026",
+        "platforms": [],
+        "text_preview": "Let’s Bake & Make Memories!",
+        "status": "active",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1454216619879945",
+        "has_real_id": true,
+        "scraped_at": "2026-08-22T02:00:21.409894"
+      },
+      {
+        "id": "1722409378876216",
+        "brand": "SPAR Sri Lanka",
+        "page_name": "SPAR Sri Lanka",
+        "start_date": "Aug 21, 2026",
+        "platforms": [],
+        "text_preview": "",
+        "status": "active",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1722409378876216",
+        "scraped_at": "2026-08-22T02:00:21.623518"
+      },
+      {
+        "id": "1618675959969433",
+        "brand": "SPAR Sri Lanka",
+        "page_name": "SPAR Sri Lanka",
+        "start_date": "Aug 20, 2026",
+        "platforms": [],
+        "text_preview": "",
+        "status": "active",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1618675959969433",
+        "scraped_at": "2026-08-22T02:00:21.623531"
+      },
       {
         "id": "1414098470607009",
         "brand": "SPAR Sri Lanka",
@@ -742,24 +850,24 @@
         "text_preview": "",
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1414098470607009",
-        "scraped_at": "2026-08-21T02:10:37.044690"
+        "scraped_at": "2026-08-22T02:00:21.623532"
       },
       {
-        "id": "ad_389107",
+        "id": "ad_182885",
         "brand": "SPAR Sri Lanka",
         "page_name": "SPAR Sri Lanka",
-        "start_date": "Aug 20, 2026 · Total active time 1 hr",
+        "start_date": "Aug 20, 2026",
         "platforms": [],
-        "text_preview": "Bake Happy Memories with Astra! 🎂✨",
+        "text_preview": "Every Sri Lankan family has that mango moment. 🥭",
         "status": "active",
         "ad_snapshot_url": null,
         "has_real_id": false,
-        "scraped_at": "2026-08-21T02:10:36.851474"
+        "scraped_at": "2026-08-22T02:00:21.409911"
       }
     ],
-    "count": 2,
+    "count": 13,
     "page_id": "290159608091322",
     "source_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=LK&is_targeted_country=false&media_type=all&search_type=page&sort_data[direction]=desc&sort_data[mode]=total_impressions&view_all_page_id=290159608091322",
-    "collected_at": "2026-08-21T02:10:37.085695"
+    "collected_at": "2026-08-22T02:00:21.668857"
   }
 }
