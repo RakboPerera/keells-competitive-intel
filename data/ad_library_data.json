@@ -11,7 +11,7 @@
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1425646679642016",
         "has_real_id": true,
-        "scraped_at": "2026-09-21T05:17:24.412153"
+        "scraped_at": "2026-09-22T05:16:06.586419"
       },
       {
         "id": "1050187734533072",
@@ -23,7 +23,7 @@
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1050187734533072",
         "has_real_id": true,
-        "scraped_at": "2026-09-21T05:17:24.412180"
+        "scraped_at": "2026-09-22T05:16:06.586445"
       },
       {
         "id": "1722064645682900",
@@ -35,7 +35,7 @@
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1722064645682900",
         "has_real_id": true,
-        "scraped_at": "2026-09-21T05:17:24.412194"
+        "scraped_at": "2026-09-22T05:16:06.586460"
       },
       {
         "id": "1463566525831935",
@@ -47,7 +47,7 @@
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1463566525831935",
         "has_real_id": true,
-        "scraped_at": "2026-09-21T05:17:24.412205"
+        "scraped_at": "2026-09-22T05:16:06.586471"
       },
       {
         "id": "1598751661908835",
@@ -59,7 +59,7 @@
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1598751661908835",
         "has_real_id": true,
-        "scraped_at": "2026-09-21T05:17:24.412216"
+        "scraped_at": "2026-09-22T05:16:06.586482"
       },
       {
         "id": "1420475810000981",
@@ -71,7 +71,7 @@
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1420475810000981",
         "has_real_id": true,
-        "scraped_at": "2026-09-21T05:17:24.412226"
+        "scraped_at": "2026-09-22T05:16:06.586493"
       },
       {
         "id": "1776756363539356",
@@ -83,7 +83,7 @@
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1776756363539356",
         "has_real_id": true,
-        "scraped_at": "2026-09-21T05:17:24.412245"
+        "scraped_at": "2026-09-22T05:16:06.586512"
       },
       {
         "id": "1675866963494704",
@@ -95,7 +95,7 @@
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1675866963494704",
         "has_real_id": true,
-        "scraped_at": "2026-09-21T05:17:24.412255"
+        "scraped_at": "2026-09-22T05:16:06.586523"
       },
       {
         "id": "1610532194072186",
@@ -107,7 +107,7 @@
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1610532194072186",
         "has_real_id": true,
-        "scraped_at": "2026-09-21T05:17:24.412268"
+        "scraped_at": "2026-09-22T05:16:06.586535"
       },
       {
         "id": "1672216404521091",
@@ -119,7 +119,7 @@
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1672216404521091",
         "has_real_id": true,
-        "scraped_at": "2026-09-21T05:17:24.412278"
+        "scraped_at": "2026-09-22T05:16:06.586573"
       },
       {
         "id": "1056762017208256",
@@ -131,7 +131,7 @@
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1056762017208256",
         "has_real_id": true,
-        "scraped_at": "2026-09-21T05:17:24.412293"
+        "scraped_at": "2026-09-22T05:16:06.586593"
       },
       {
         "id": "4618171238426585",
@@ -143,43 +143,19 @@
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=4618171238426585",
         "has_real_id": true,
-        "scraped_at": "2026-09-21T05:17:24.412302"
+        "scraped_at": "2026-09-22T05:16:06.586604"
       },
       {
-        "id": "1585630039868863",
+        "id": "1120389137331877",
         "brand": "Keells Super",
         "page_name": "Keells Super",
         "start_date": "Sep 7, 2026",
         "platforms": [],
         "text_preview": "3 ads use this creative and text",
         "status": "active",
-        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1585630039868863",
-        "has_real_id": true,
-        "scraped_at": "2026-09-21T05:17:24.412311"
-      },
-      {
-        "id": "1398294555106918",
-        "brand": "Keells Super",
-        "page_name": "Keells Super",
-        "start_date": "Sep 19, 2026",
-        "platforms": [],
-        "text_preview": "A fresh start to your weekend begins with fresh produce! 🥕🍉",
-        "status": "active",
-        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1398294555106918",
-        "has_real_id": true,
-        "scraped_at": "2026-09-21T05:17:24.412322"
-      },
-      {
-        "id": "1120389137331877",
-        "brand": "Keells Super",
-        "page_name": "Keells Super",
-        "start_date": "Sep 19, 2026",
-        "platforms": [],
-        "text_preview": "Experience the real taste of freshness when you buy the freshest groceries and food for great prices at Keells.",
-        "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1120389137331877",
         "has_real_id": true,
-        "scraped_at": "2026-09-21T05:17:24.412336"
+        "scraped_at": "2026-09-22T05:16:06.586614"
       },
       {
         "id": "4258983410900789",
@@ -191,7 +167,7 @@
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=4258983410900789",
         "has_real_id": true,
-        "scraped_at": "2026-09-21T05:17:24.412371"
+        "scraped_at": "2026-09-22T05:16:06.586627"
       },
       {
         "id": "1055554010807115",
@@ -203,7 +179,7 @@
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1055554010807115",
         "has_real_id": true,
-        "scraped_at": "2026-09-21T05:17:24.412385"
+        "scraped_at": "2026-09-22T05:16:06.586638"
       },
       {
         "id": "1698345481272796",
@@ -215,7 +191,7 @@
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1698345481272796",
         "has_real_id": true,
-        "scraped_at": "2026-09-21T05:17:24.412396"
+        "scraped_at": "2026-09-22T05:16:06.586648"
       },
       {
         "id": "1377681220662279",
@@ -227,138 +203,159 @@
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1377681220662279",
         "has_real_id": true,
-        "scraped_at": "2026-09-21T05:17:24.412412"
+        "scraped_at": "2026-09-22T05:16:06.586658"
       },
       {
-        "id": "1640920337756377",
+        "id": "3761314137376279",
         "brand": "Keells Super",
         "page_name": "Keells Super",
         "start_date": "Sep 9, 2026",
         "platforms": [],
         "text_preview": "Stand a chance to win a Google Pixel 11! 🥳",
         "status": "active",
-        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1640920337756377",
-        "has_real_id": true,
-        "scraped_at": "2026-09-21T05:17:24.412423"
-      },
-      {
-        "id": "2570615203363696",
-        "brand": "Keells Super",
-        "page_name": "Keells Super",
-        "start_date": "Sep 19, 2026",
-        "platforms": [],
-        "text_preview": "Make the most of your weekend with fresh favourites and great savings at Keells Athurugiriya!🛒💚",
-        "status": "active",
-        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2570615203363696",
-        "has_real_id": true,
-        "scraped_at": "2026-09-21T05:17:24.412446"
-      },
-      {
-        "id": "1055949450656190",
-        "brand": "Keells Super",
-        "page_name": "Keells Super",
-        "start_date": "Sep 8, 2026",
-        "platforms": [],
-        "text_preview": "18 ads use this creative and text",
-        "status": "active",
-        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1055949450656190",
-        "has_real_id": true,
-        "scraped_at": "2026-09-21T05:17:24.412457"
-      },
-      {
-        "id": "3761314137376279",
-        "brand": "Keells Super",
-        "page_name": "Keells Super",
-        "start_date": "Sep 19, 2026",
-        "platforms": [],
-        "text_preview": "Make the most of your weekend with fresh favourites and great savings at Keells Udahamulla!🛒💚",
-        "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=3761314137376279",
         "has_real_id": true,
-        "scraped_at": "2026-09-21T05:17:24.412476"
+        "scraped_at": "2026-09-22T05:16:06.586674"
       },
       {
-        "id": "1545804033454331",
+        "id": "1607770550762922",
         "brand": "Keells Super",
         "page_name": "Keells Super",
         "start_date": "Sep 7, 2026",
         "platforms": [],
-        "text_preview": "",
+        "text_preview": "3 ads use this creative and text",
         "status": "active",
-        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1545804033454331",
-        "scraped_at": "2026-09-21T05:17:24.624788"
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1607770550762922",
+        "has_real_id": true,
+        "scraped_at": "2026-09-22T05:16:06.586684"
       },
       {
-        "id": "1598948091677675",
+        "id": "1447367180545376",
         "brand": "Keells Super",
         "page_name": "Keells Super",
-        "start_date": "Aug 12, 2026",
+        "start_date": "Sep 10, 2026",
         "platforms": [],
-        "text_preview": "",
+        "text_preview": "Watch the recipe, shop all the ingredients at Keells, and make it right in your own kitchen.​",
         "status": "active",
-        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1598948091677675",
-        "scraped_at": "2026-09-21T05:17:24.624819"
-      },
-      {
-        "id": "1594725789119722",
-        "brand": "Keells Super",
-        "page_name": "Keells Super",
-        "start_date": "Sep 7, 2026",
-        "platforms": [],
-        "text_preview": "",
-        "status": "active",
-        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1594725789119722",
-        "scraped_at": "2026-09-21T05:17:24.624824"
-      },
-      {
-        "id": "3879028438919540",
-        "brand": "Keells Super",
-        "page_name": "Keells Super",
-        "start_date": null,
-        "platforms": [],
-        "text_preview": "",
-        "status": "active",
-        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=3879028438919540",
-        "scraped_at": "2026-09-21T05:17:24.624843"
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1447367180545376",
+        "has_real_id": true,
+        "scraped_at": "2026-09-22T05:16:06.586696"
       },
       {
         "id": "1819808029197547",
         "brand": "Keells Super",
         "page_name": "Keells Super",
-        "start_date": null,
+        "start_date": "Aug 28, 2026",
         "platforms": [],
         "text_preview": "",
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1819808029197547",
-        "scraped_at": "2026-09-21T05:17:24.624846"
+        "scraped_at": "2026-09-22T05:16:06.784732"
       },
       {
-        "id": "1421596339834259",
+        "id": "1413841540683597",
         "brand": "Keells Super",
         "page_name": "Keells Super",
-        "start_date": null,
+        "start_date": "Aug 31, 2026",
         "platforms": [],
         "text_preview": "",
         "status": "active",
-        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1421596339834259",
-        "scraped_at": "2026-09-21T05:17:24.624847"
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1413841540683597",
+        "scraped_at": "2026-09-22T05:16:06.784734"
       },
       {
         "id": "1064016299433997",
         "brand": "Keells Super",
         "page_name": "Keells Super",
-        "start_date": null,
+        "start_date": "Sep 8, 2026",
         "platforms": [],
         "text_preview": "",
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1064016299433997",
-        "scraped_at": "2026-09-21T05:17:24.624850"
+        "scraped_at": "2026-09-22T05:16:06.784736"
+      },
+      {
+        "id": "3879028438919540",
+        "brand": "Keells Super",
+        "page_name": "Keells Super",
+        "start_date": "Sep 9, 2026",
+        "platforms": [],
+        "text_preview": "",
+        "status": "active",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=3879028438919540",
+        "scraped_at": "2026-09-22T05:16:06.784742"
+      },
+      {
+        "id": "1535897564518913",
+        "brand": "Keells Super",
+        "page_name": "Keells Super",
+        "start_date": "Sep 7, 2026",
+        "platforms": [],
+        "text_preview": "",
+        "status": "active",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1535897564518913",
+        "scraped_at": "2026-09-22T05:16:06.784745"
+      },
+      {
+        "id": "1421596339834259",
+        "brand": "Keells Super",
+        "page_name": "Keells Super",
+        "start_date": "Sep 9, 2026",
+        "platforms": [],
+        "text_preview": "",
+        "status": "active",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1421596339834259",
+        "scraped_at": "2026-09-22T05:16:06.784747"
+      },
+      {
+        "id": "2878680755830663",
+        "brand": "Keells Super",
+        "page_name": "Keells Super",
+        "start_date": "Aug 29, 2026",
+        "platforms": [],
+        "text_preview": "",
+        "status": "active",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2878680755830663",
+        "scraped_at": "2026-09-22T05:16:06.784756"
+      },
+      {
+        "id": "1545804033454331",
+        "brand": "Keells Super",
+        "page_name": "Keells Super",
+        "start_date": null,
+        "platforms": [],
+        "text_preview": "",
+        "status": "active",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1545804033454331",
+        "scraped_at": "2026-09-22T05:16:06.784762"
+      },
+      {
+        "id": "1598948091677675",
+        "brand": "Keells Super",
+        "page_name": "Keells Super",
+        "start_date": null,
+        "platforms": [],
+        "text_preview": "",
+        "status": "active",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1598948091677675",
+        "scraped_at": "2026-09-22T05:16:06.784766"
+      },
+      {
+        "id": "1594725789119722",
+        "brand": "Keells Super",
+        "page_name": "Keells Super",
+        "start_date": null,
+        "platforms": [],
+        "text_preview": "",
+        "status": "active",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1594725789119722",
+        "scraped_at": "2026-09-22T05:16:06.784767"
       }
     ],
     "count": 30,
     "page_id": "108836225822670",
     "source_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=LK&is_targeted_country=false&media_type=all&search_type=page&sort_data[direction]=desc&sort_data[mode]=total_impressions&view_all_page_id=108836225822670",
-    "collected_at": "2026-09-21T05:17:24.677966"
+    "collected_at": "2026-09-22T05:16:06.829885"
   },
   "Cargills Food City": {
     "ads": [
@@ -372,31 +369,19 @@
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=38019239924389290",
         "has_real_id": true,
-        "scraped_at": "2026-09-21T05:18:33.963290"
+        "scraped_at": "2026-09-22T05:16:51.720802"
       },
       {
-        "id": "1112456265070765",
+        "id": "1339076451369491",
         "brand": "Cargills Food City",
         "page_name": "Cargills Food City",
         "start_date": "Aug 31, 2026",
         "platforms": [],
         "text_preview": "ස්ථීර අනාගතයකට ස්ථාවර රැකියාවක් සොයන ඔබට කදිම අවස්ථාවක්!",
         "status": "active",
-        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1112456265070765",
-        "has_real_id": true,
-        "scraped_at": "2026-09-21T05:18:33.963313"
-      },
-      {
-        "id": "1339076451369491",
-        "brand": "Cargills Food City",
-        "page_name": "Cargills Food City",
-        "start_date": "Sep 18, 2026",
-        "platforms": [],
-        "text_preview": "Enjoy the lowest prices around the country for commodities only from Cargills Food City.",
-        "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1339076451369491",
         "has_real_id": true,
-        "scraped_at": "2026-09-21T05:18:33.963329"
+        "scraped_at": "2026-09-22T05:16:51.720826"
       },
       {
         "id": "1790490015323697",
@@ -408,7 +393,7 @@
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1790490015323697",
         "has_real_id": true,
-        "scraped_at": "2026-09-21T05:18:33.963342"
+        "scraped_at": "2026-09-22T05:16:51.720841"
       },
       {
         "id": "1559762722307706",
@@ -420,7 +405,7 @@
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1559762722307706",
         "has_real_id": true,
-        "scraped_at": "2026-09-21T05:18:33.963375"
+        "scraped_at": "2026-09-22T05:16:51.720853"
       },
       {
         "id": "1093444339790824",
@@ -432,7 +417,7 @@
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1093444339790824",
         "has_real_id": true,
-        "scraped_at": "2026-09-21T05:18:33.963386"
+        "scraped_at": "2026-09-22T05:16:51.720863"
       },
       {
         "id": "1759773615072919",
@@ -444,7 +429,7 @@
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1759773615072919",
         "has_real_id": true,
-        "scraped_at": "2026-09-21T05:18:33.963395"
+        "scraped_at": "2026-09-22T05:16:51.720873"
       },
       {
         "id": "1130678539314029",
@@ -456,7 +441,7 @@
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1130678539314029",
         "has_real_id": true,
-        "scraped_at": "2026-09-21T05:18:33.963408"
+        "scraped_at": "2026-09-22T05:16:51.720885"
       },
       {
         "id": "1083630991309486",
@@ -468,7 +453,7 @@
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1083630991309486",
         "has_real_id": true,
-        "scraped_at": "2026-09-21T05:18:33.963419"
+        "scraped_at": "2026-09-22T05:16:51.720896"
       },
       {
         "id": "1397317328536275",
@@ -480,7 +465,7 @@
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1397317328536275",
         "has_real_id": true,
-        "scraped_at": "2026-09-21T05:18:33.963429"
+        "scraped_at": "2026-09-22T05:16:51.720907"
       },
       {
         "id": "1094675326368444",
@@ -492,7 +477,7 @@
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1094675326368444",
         "has_real_id": true,
-        "scraped_at": "2026-09-21T05:18:33.963439"
+        "scraped_at": "2026-09-22T05:16:51.720916"
       },
       {
         "id": "2574362379749180",
@@ -504,7 +489,7 @@
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2574362379749180",
         "has_real_id": true,
-        "scraped_at": "2026-09-21T05:18:33.963448"
+        "scraped_at": "2026-09-22T05:16:51.720925"
       },
       {
         "id": "2096902374549800",
@@ -516,7 +501,7 @@
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2096902374549800",
         "has_real_id": true,
-        "scraped_at": "2026-09-21T05:18:33.963457"
+        "scraped_at": "2026-09-22T05:16:51.720935"
       },
       {
         "id": "1400616881654098",
@@ -528,19 +513,7 @@
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1400616881654098",
         "has_real_id": true,
-        "scraped_at": "2026-09-21T05:18:33.963467"
-      },
-      {
-        "id": "1101240712279300",
-        "brand": "Cargills Food City",
-        "page_name": "Cargills Food City",
-        "start_date": "Sep 18, 2026",
-        "platforms": [],
-        "text_preview": "Enjoy mega discounts exclusively for c:rewards members!",
-        "status": "active",
-        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1101240712279300",
-        "has_real_id": true,
-        "scraped_at": "2026-09-21T05:18:33.963476"
+        "scraped_at": "2026-09-22T05:16:51.720945"
       },
       {
         "id": "3756805001152921",
@@ -548,83 +521,11 @@
         "page_name": "Cargills Food City",
         "start_date": "Sep 18, 2026",
         "platforms": [],
-        "text_preview": "Enjoy the lowest prices across the country on Fresh Produce!",
+        "text_preview": "Enjoy mega discounts exclusively for c:rewards members!",
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=3756805001152921",
         "has_real_id": true,
-        "scraped_at": "2026-09-21T05:18:33.963486"
-      },
-      {
-        "id": "1605345261220813",
-        "brand": "Cargills Food City",
-        "page_name": "Cargills Food City",
-        "start_date": "Sep 18, 2026",
-        "platforms": [],
-        "text_preview": "Enjoy mega discounts exclusively for c:rewards members!",
-        "status": "active",
-        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1605345261220813",
-        "has_real_id": true,
-        "scraped_at": "2026-09-21T05:18:33.963495"
-      },
-      {
-        "id": "1870264007685216",
-        "brand": "Cargills Food City",
-        "page_name": "Cargills Food City",
-        "start_date": "Sep 18, 2026",
-        "platforms": [],
-        "text_preview": "නැවුම් එළවළු හා පලතුරු සඳහා රට පුරා අඩුම මිල අත්විඳින්න ඔබත් ලඟම කාගිල්ස් ෆුඩ් සිටි එකට එන්න.",
-        "status": "active",
-        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1870264007685216",
-        "has_real_id": true,
-        "scraped_at": "2026-09-21T05:18:33.963504"
-      },
-      {
-        "id": "1346064934268056",
-        "brand": "Cargills Food City",
-        "page_name": "Cargills Food City",
-        "start_date": "Sep 18, 2026",
-        "platforms": [],
-        "text_preview": "Enjoy the lowest prices across the country on Fresh Produce!",
-        "status": "active",
-        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1346064934268056",
-        "has_real_id": true,
-        "scraped_at": "2026-09-21T05:18:33.963514"
-      },
-      {
-        "id": "970290859445548",
-        "brand": "Cargills Food City",
-        "page_name": "Cargills Food City",
-        "start_date": "Sep 18, 2026",
-        "platforms": [],
-        "text_preview": "අලුත් මාළු සඳහා රට පුරාම අසමසම අඩුම මිල ! මේ වාසිය අත්විඳින්න ලඟම තියෙන කාගිල්ස් ෆුඩ් සිටි එකට එන්න.",
-        "status": "active",
-        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=970290859445548",
-        "has_real_id": true,
-        "scraped_at": "2026-09-21T05:18:33.963523"
-      },
-      {
-        "id": "1650268210056051",
-        "brand": "Cargills Food City",
-        "page_name": "Cargills Food City",
-        "start_date": "Sep 18, 2026",
-        "platforms": [],
-        "text_preview": "Enjoy the lowest prices across the country on Fresh Produce!",
-        "status": "active",
-        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1650268210056051",
-        "has_real_id": true,
-        "scraped_at": "2026-09-21T05:18:33.963533"
-      },
-      {
-        "id": "1058093063521132",
-        "brand": "Cargills Food City",
-        "page_name": "Cargills Food City",
-        "start_date": "Sep 18, 2026",
-        "platforms": [],
-        "text_preview": "Enjoy unmatched lowest prices across the whole country on fresh seafood!",
-        "status": "active",
-        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1058093063521132",
-        "has_real_id": true,
-        "scraped_at": "2026-09-21T05:18:33.963543"
+        "scraped_at": "2026-09-22T05:16:51.720954"
       },
       {
         "id": "1492939422660343",
@@ -632,11 +533,11 @@
         "page_name": "Cargills Food City",
         "start_date": "Sep 18, 2026",
         "platforms": [],
-        "text_preview": "නැවුම් එළවළු හා පලතුරු සඳහා රට පුරා අඩුම මිල අත්විඳින්න ඔබත් ලඟම කාගිල්ස් ෆුඩ් සිටි එකට එන්න.",
+        "text_preview": "Enjoy mega discounts exclusively for c:rewards members!",
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1492939422660343",
         "has_real_id": true,
-        "scraped_at": "2026-09-21T05:18:33.963552"
+        "scraped_at": "2026-09-22T05:16:51.720963"
       },
       {
         "id": "1620543326183250",
@@ -648,19 +549,7 @@
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1620543326183250",
         "has_real_id": true,
-        "scraped_at": "2026-09-21T05:18:33.963562"
-      },
-      {
-        "id": "2138480197084675",
-        "brand": "Cargills Food City",
-        "page_name": "Cargills Food City",
-        "start_date": "Sep 18, 2026",
-        "platforms": [],
-        "text_preview": "Mega news for our loyal customers!",
-        "status": "active",
-        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2138480197084675",
-        "has_real_id": true,
-        "scraped_at": "2026-09-21T05:18:33.963572"
+        "scraped_at": "2026-09-22T05:16:51.720973"
       },
       {
         "id": "1393185786329524",
@@ -668,11 +557,11 @@
         "page_name": "Cargills Food City",
         "start_date": "Sep 18, 2026",
         "platforms": [],
-        "text_preview": "Enjoy the lowest prices across the country on Fresh Produce!",
+        "text_preview": "Mega news for our loyal customers!",
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1393185786329524",
         "has_real_id": true,
-        "scraped_at": "2026-09-21T05:18:33.963582"
+        "scraped_at": "2026-09-22T05:16:51.720983"
       },
       {
         "id": "1637883251019673",
@@ -684,48 +573,24 @@
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1637883251019673",
         "has_real_id": true,
-        "scraped_at": "2026-09-21T05:18:33.963591"
-      },
-      {
-        "id": "1447066417273445",
-        "brand": "Cargills Food City",
-        "page_name": "Cargills Food City",
-        "start_date": "Sep 18, 2026",
-        "platforms": [],
-        "text_preview": "c: rewards அங்கத்தவர்களுக்கான விசேட விலைக்கழிவுகளை அனுபவித்திடுங்கள்!",
-        "status": "active",
-        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1447066417273445",
-        "has_real_id": true,
-        "scraped_at": "2026-09-21T05:18:33.963600"
-      },
-      {
-        "id": "1416530290460069",
-        "brand": "Cargills Food City",
-        "page_name": "Cargills Food City",
-        "start_date": "Sep 18, 2026",
-        "platforms": [],
-        "text_preview": "புதிய மரக்கறிகள் மற்றும் பழவகைகளுக்கு முழுநாட்டிலும் குறைந்த விலையை அனுபவிக்க காகில்ஸ் ஃபுட் சிட்டியினை நாடுங்கள்.",
-        "status": "active",
-        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1416530290460069",
-        "has_real_id": true,
-        "scraped_at": "2026-09-21T05:18:33.963610"
+        "scraped_at": "2026-09-22T05:16:51.720993"
       },
       {
         "id": "1064355979693800",
         "brand": "Cargills Food City",
         "page_name": "Cargills Food City",
-        "start_date": "Sep 18, 2026",
+        "start_date": "Sep 7, 2026",
         "platforms": [],
         "text_preview": "",
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1064355979693800",
-        "scraped_at": "2026-09-21T05:18:34.165344"
+        "scraped_at": "2026-09-22T05:16:51.880750"
       }
     ],
-    "count": 30,
+    "count": 19,
     "page_id": "155866468723",
     "source_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=LK&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=155866468723",
-    "collected_at": "2026-09-21T05:18:34.219116"
+    "collected_at": "2026-09-22T05:16:51.926614"
   },
   "Softlogic Glomark": {
     "ads": [
@@ -739,7 +604,7 @@
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1506472121514123",
         "has_real_id": true,
-        "scraped_at": "2026-09-21T05:19:19.064922"
+        "scraped_at": "2026-09-22T05:17:36.721661"
       },
       {
         "id": "1379486907667682",
@@ -751,7 +616,7 @@
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1379486907667682",
         "has_real_id": true,
-        "scraped_at": "2026-09-21T05:19:19.064952"
+        "scraped_at": "2026-09-22T05:17:36.721683"
       },
       {
         "id": "3137912383078577",
@@ -763,48 +628,84 @@
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=3137912383078577",
         "has_real_id": true,
-        "scraped_at": "2026-09-21T05:19:19.064970"
+        "scraped_at": "2026-09-22T05:17:36.721697"
       },
       {
-        "id": "1774001863746660",
+        "id": "1511456604076350",
         "brand": "Softlogic Glomark",
         "page_name": "Softlogic Glomark",
         "start_date": "Sep 15, 2026",
         "platforms": [],
         "text_preview": "𝐄𝐯𝐞𝐫𝐲𝐭𝐡𝐢𝐧𝐠 𝐘𝐨𝐮 𝐍𝐞𝐞𝐝, 𝐉𝐮𝐬𝐭 𝐚 𝐂𝐥𝐢𝐜𝐤 𝐀𝐰𝐚𝐲!",
         "status": "active",
-        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1774001863746660",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1511456604076350",
         "has_real_id": true,
-        "scraped_at": "2026-09-21T05:19:19.064990"
+        "scraped_at": "2026-09-22T05:17:36.721713"
+      },
+      {
+        "id": "2323701025054437",
+        "brand": "Softlogic Glomark",
+        "page_name": "Softlogic Glomark",
+        "start_date": "Sep 21, 2026 · Total active time 10 hrs",
+        "platforms": [],
+        "text_preview": "Save 20% on Your Total Bill – Up to Rs. 4,000 OFF! This Tuesday, only at glomark.lk.",
+        "status": "active",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2323701025054437",
+        "has_real_id": true,
+        "scraped_at": "2026-09-22T05:17:36.721728"
+      },
+      {
+        "id": "1845094129949495",
+        "brand": "Softlogic Glomark",
+        "page_name": "Softlogic Glomark",
+        "start_date": "Sep 21, 2026 · Total active time 15 hrs",
+        "platforms": [],
+        "text_preview": "𝐍𝐨𝐮𝐫𝐢𝐬𝐡 𝐏𝐞𝐚𝐜𝐞. 𝐋𝐢𝐯𝐞 𝐁𝐞𝐭𝐭𝐞𝐫. 🕊️",
+        "status": "active",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1845094129949495",
+        "has_real_id": true,
+        "scraped_at": "2026-09-22T05:17:36.721741"
+      },
+      {
+        "id": "1482321473953830",
+        "brand": "Softlogic Glomark",
+        "page_name": "Softlogic Glomark",
+        "start_date": "Sep 21, 2026 · Total active time 15 hrs",
+        "platforms": [],
+        "text_preview": "𝐒𝐨𝐦𝐞 𝐝𝐮𝐨𝐬 𝐝𝐨𝐧’𝐭 𝐧𝐞𝐞𝐝 𝐚𝐧 𝐢𝐧𝐭𝐫𝐨𝐝𝐮𝐜𝐭𝐢𝐨𝐧!",
+        "status": "active",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1482321473953830",
+        "has_real_id": true,
+        "scraped_at": "2026-09-22T05:17:36.721753"
       },
       {
         "id": "1425162489467688",
         "brand": "Softlogic Glomark",
         "page_name": "Softlogic Glomark",
-        "start_date": "Sep 20, 2026",
+        "start_date": "Sep 15, 2026",
         "platforms": [],
         "text_preview": "",
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1425162489467688",
-        "scraped_at": "2026-09-21T05:19:19.201715"
+        "scraped_at": "2026-09-22T05:17:36.854064"
       },
       {
-        "id": "ad_880723",
+        "id": "ad_140614",
         "brand": "Softlogic Glomark",
         "page_name": "Softlogic Glomark",
-        "start_date": "Sep 20, 2026 · Total active time 10 hrs",
+        "start_date": "Sep 21, 2026 · Total active time 15 hrs",
         "platforms": [],
-        "text_preview": "Enjoy a 25% OFF on Fresh Produce during GLO Fresh Days, because healthier choices should come with better savings.",
+        "text_preview": "𝐒𝐮𝐧𝐝𝐚𝐲 𝐅𝐮𝐧𝐝𝐚𝐲 𝐂𝐡𝐚𝐥𝐥𝐞𝐧𝐠𝐞...",
         "status": "active",
         "ad_snapshot_url": null,
         "has_real_id": false,
-        "scraped_at": "2026-09-21T05:19:19.065014"
+        "scraped_at": "2026-09-22T05:17:36.721768"
       }
     ],
-    "count": 6,
+    "count": 9,
     "page_id": "354233975342508",
     "source_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=LK&is_targeted_country=false&media_type=all&search_type=page&sort_data[direction]=desc&sort_data[mode]=total_impressions&view_all_page_id=354233975342508",
-    "collected_at": "2026-09-21T05:19:19.246671"
+    "collected_at": "2026-09-22T05:17:36.897633"
   },
   "SPAR Sri Lanka": {
     "ads": [
@@ -817,10 +718,10 @@
         "text_preview": "",
         "status": "active",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1039172465777003",
-        "scraped_at": "2026-09-21T05:20:04.198576"
+        "scraped_at": "2026-09-22T05:18:21.773868"
       },
       {
-        "id": "ad_70803",
+        "id": "ad_254201",
         "brand": "SPAR Sri Lanka",
         "page_name": "SPAR Sri Lanka",
         "start_date": "Sep 14, 2026",
@@ -831,12 +732,12 @@
         "status": "active",
         "ad_snapshot_url": null,
         "has_real_id": false,
-        "scraped_at": "2026-09-21T05:20:04.075592"
+        "scraped_at": "2026-09-22T05:18:21.650660"
       }
     ],
     "count": 2,
     "page_id": "290159608091322",
     "source_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=LK&is_targeted_country=false&media_type=all&search_type=page&sort_data[direction]=desc&sort_data[mode]=total_impressions&view_all_page_id=290159608091322",
-    "collected_at": "2026-09-21T05:20:04.243910"
+    "collected_at": "2026-09-22T05:18:21.816056"
   }
 }
